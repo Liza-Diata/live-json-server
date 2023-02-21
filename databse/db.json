@@ -121,6 +121,26 @@
     ]
 }
 
+{
+    "employee": [
+      {
+        "name": "Nihira techiees",
+        "email": "nihiratechiees@gmail.com",
+        "phone": "98899090",
+        "active": true,
+        "id": 1
+      },
+      {
+        "name": "Ricky Ponting",
+        "email": "rp@in.com",
+        "phone": "98899090",
+        "active": true,
+        "id": 2
+      }
+    ]
+     
+}
+
      
     
     
