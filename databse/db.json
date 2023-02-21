@@ -88,8 +88,39 @@
      "trainer": "Sawyer Alan",
      "schedule": "Friday"
      }
+    ],
+    
+    "Instructors": [
+        {
+        "id": 1,
+        "name": "Logan Cale",
+        "photo": "https://images.pexels.com/photos/6253295/pexels-photo-6253295.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description":"Gold Medalist: 2018 Pan Asian Taekwondo Championships, 2018 Rollapalooza BJJ Championships, 2017 Origins BJJ Purple Belt In-House Tournament (Open Weight), 2016 Origins BJJ Purple Belt In-House Tournament (Open Weight), 2014 Rollapalooza BJJ Championships.Silver Medalist: 2017 Philippine Taekwondo Nationals, 2016 Copa Arnold Classic Rio De Janeiro, 2015 Philippine Pan Asian BJJ Championships, 2015 Rollapalooza Grand Prix Qualifiers, 2014 Philippine BJJ Nationals (No-Gi), 2014 Philippine BJJ Nationals (Gi), 2014 Rollapalooza Summer BJJ Open, 2013 Philippine Submission Absolute, 2011 Philippine Taekwondo Nationals." , 
+	    "credentials": "Silver Medalist, 2018 IBJJF Asian Open, 2015 BJJFP Pan Asians International Tournament (Weight Class and Open Weight), 2015 BJJFP International Tournament, 2013 BJJFP Nationals Tournament (Open Weight)",
+        "specialties": "Taekwondo, Brazilian Jiu Jitsu",
+        "schedule": "Monday"
+},
+{
+        "id": 2,
+        "name": "Blake Kyleigh",
+        "photo": "https://images.pexels.com/photos/7045746/pexels-photo-7045746.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Blake has been training Karate since 2011. She is a competitive Judo athlete and also a former member of the Philippine National Team for Jiu Jitsu. Aside from competition, she currently teaches Origins BJJ’s kids class. Sharing her passion and knowledge of the sport has been a tremendous part of her own jiu jitsu journey, getting people excited about Jiu Jitsu and having them feel the same passion that she feels about the sport has been a goal that she has been wanting to fulfill over the years. She currently holds the rank of brown belt under Nic Gregoriades.",
+        "credentials": "Gold Medalist, 2018 Dumau Asia Pacific International Karate Championship, 2018 Thailand Open World Ranking Tournament (Open Belt), 2018 BJJFP Pan Asians International Tournament (Weight Class and Open Weight), 2018 Japan National Team Trials Tournament (Open Belt), 2013 BJJFP Nationals Tournament, 2013 BJJFP Pan Asians International Tournament",
+        "specialties": "Karate and Judo ",
+        "schedule": "Monday / Saturday"
+        },
+        {
+        "id": 3,
+        "name": "Chuckie Madison",
+        "photo": "https://www.master-sh-yu.com/wp-content/uploads/2021/02/Instructor.MrEric-scaled-e1614555702978.jpg",
+        "description": "Chuckie has dedicated his life in the study of the martial arts not just in technique, but in philosophy as well. Tracing his roots in full contact Karate, Christian mixes elements of Muay Thai, boxing, western kickboxing and Jeet Kune Do to create a unique striking style that has been tested in the cage and the ring. Christian looks to share his passion for fitness and striking to anyone willing to learn at Origins Athletics. ",
+        "credentials": "Superfight Record:2-0, Fight Con (2017), Arte Suave (2017)",
+        "specialties": "Karate and Judo ",
+        "schedule": "Wednesday / Sunday"
+        }
     ]
 }
+
      
     
     
