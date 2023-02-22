@@ -213,7 +213,57 @@
             "Instructor":"Anna Mendoza"
        }
      ],
-     
+
+     "YogaInstructors": [
+      {
+        "id": 1,
+        "name": "Anna Mendoza",
+        "photo": "https://yogamanila.com/wp-content/uploads/2018/11/t-cherry.jpg",
+        "description": "Anne's journey into the realm of yoga began in 2004 when she stepped into her first Vinyasa Flow class that led to the next three years practicing Bikram. After more searching, she knew she had found the pot of gold as they say, at the end of yoga’s colorful rainbow when she tried Ashtanga yoga. She continued on this fork of the road and did teacher training programs with Tim Miller and John Scott, in addition to learning from all the other luminaries in the yoga world.",
+        "specialties": "ASHTANGA YOGA, VINYASA FLOW, AND YOGA FOR CHILDREN WITH SPECIAL NEEDS",
+        "schedule":"Monday, Thursday"
+      },
+      {
+        "id": 2,
+        "name": "CHERRY DU",
+        "photo":"https://yogamanila.com/wp-content/uploads/2018/11/t-anne1.jpg",
+        "description": "Cherry Du discovered Sivananda yoga under Bela Lipat in the year 2000. She began her Ashtanga practice a year later. She is a Yoga Ed certified instructor for yoga for kids (K-8) and is certified to teach Ashtanga by Paul Dallaghan of the Centered Yoga Institute.",
+        "specialties": "ASHTANGA YOGA, ",
+        "schedule":"Monday, Wednesday, Saturday"
+      },
+      {
+        "id": 3,
+        "name": "CHERRY DU",
+        "photo":"https://yogamanila.com/wp-content/uploads/2018/11/t-anne1.jpg",
+        "description": "Cherry Du discovered Sivananda yoga under Bela Lipat in the year 2000. She began her Ashtanga practice a year later. She is a Yoga Ed certified instructor for yoga for kids (K-8) and is certified to teach Ashtanga by Paul Dallaghan of the Centered Yoga Institute.",
+        "specialties": "ASHTANGA YOGA, ",
+        "schedule":"Monday, Wednesday, Saturday"
+      },
+      {
+        "id": 4,
+        "name": "CONNIE PONCE",
+        "photo": "https://yogamanila.com/wp-content/uploads/2018/11/t-connie1.jpg",
+        "description": "Connie Ponce has been practicing Ashtanga Vinyasa yoga since 2000. She began to focus on the Ashtanga system in 2003 and was certified to teach in 2006 by Paul Dallaghan of the Centered Yoga Institute in Thailand. Connie has since deepened her practice by taking advanced courses and workshops with senior teachers O.P. Tiwari on Pranayama and Richard Freeman in Discovering the Primary Series.",
+        "specialties": "ASHTANGA YOGA",
+        "schedule": "Wednesday, Sunday"      
+      },
+      {
+        "id": 5,
+        "name": "ERIC VILLALUZ",
+        "photo": "https://yogamanila.com/wp-content/uploads/2020/12/eric-300x300.jpg",
+        "description": "Eric Villaluz is a veteran of dance being part of the VIP Dancers that has populated television with dance styles that always captured the zeitgeist. He has doubled up as a choreographer and dance coach, making him the ideal teacher for a multi-tiered class with people of varying abilities.",
+        "specialties": "ZUMBA",
+        "schedule": "Monday, Wednesday, Friday, Sunday",    
+      },
+      {
+        "id": 5,
+        "name": "GIGI POBLADOR",
+        "photo": "https://yogamanila.com/wp-content/uploads/2018/11/gigi.jpg",
+        "description": "Gizela ‘Gigi’ Poblador started practicing Ashtanga yoga in 2007. “I didn’t expect my practice to help me cope with life off the mat. But it did!” Soon after she turned the corner and became a serious practitioner. In 2012, she completed a 200-hour teacher training with John Scott. She has also attended workshops with A.G. Mohan, Richard Freeman, David Keil and recently finished an Intermediate Teacher Training with Hart Lazer that focused on a therapeutic approach.",
+        "specialties": "ASHTANGA YOGA",
+        "schedule": "Monday, Wednesday, Friday, Sunday",    
+      }       
+     ],     
 
      "schedule": [
       {
