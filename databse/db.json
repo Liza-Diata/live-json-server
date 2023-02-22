@@ -119,6 +119,7 @@
         "schedule": "Wednesday / Sunday"
         }
     ],
+    
     "Yoga":[
       { "id": 1,
         "name": "Butterfly Pose (Baddha Konasana)", 
@@ -163,7 +164,7 @@
         "description":"Start by positioning the body on all fours on the mat with knees aligned underneath the hips and hands below the shoulders. Next, arch the back with the head and tailbone lifted upwards and chest open. On the next breath, flow into the cow pose by arching the back upwards and lowering the head. ",
         "benefits":[      
            "improve posture and balance",
-           "strengthen and stretch the neck, arms, abdomen, and back",
+           "strengthen and stretch the neck, arms, abdomen, and back"
        ],
         "schedule":"Thursday",
         "Instructor":"Ariane Santos"
@@ -212,6 +213,7 @@
             "Instructor":"Anna Mendoza"
        }
      ],
+     
 
      "schedule": [
       {
@@ -243,14 +245,14 @@
       "schedule": "Sunday"
       }
       ]
-      
+}     
       
 
 
 
    
      
-}
+
 
      
     
