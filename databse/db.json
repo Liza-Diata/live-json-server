@@ -125,11 +125,9 @@
         "name": "Butterfly Pose (Baddha Konasana)", 
         "photo": "https://www.goodnet.org/photos/620x0/30221_hd.jpg",   
         "description": "Sometimes also called the cobbler’s pose, this simple stretch involves sitting with legs spread like the wings of the butterfly. Wrap the hands around the feet and straighten the back to feel a stretch in the arms, back, and shoulders.",
-        "benefits": "stimulating blood circulation to relieving symptoms of menstruation and menopause.", 
-        "schedule": "Monday",
-        "Instructor": "Anna Mendoza"
-       },
-       {
+        "benefits": "stimulating blood circulation to relieving symptoms of menstruation and menopause."
+      },
+      {
          "id": "2",
          "name": "Mountain Pose (Tadasana): Improves Posture",
          "photo": "https://www.goodnet.org/photos/620x0/30220_hd.jpg",
@@ -139,9 +137,7 @@
            "improve posture",
            "increase blood circulation",
            "reduce tension"
-         ],
-        "schedule":"Tuesday",
-        "Instructor": "Ariane Santos"
+         ]
        },
        {
         "id": 3,
@@ -153,9 +149,7 @@
        "Stretch the groin",
        "Tones the belly",
        "releases tension in the hips and knees."
-       ],
-        "schedule":"Wednesday",
-        "Instructor":"Emily Cruz"
+       ]
        },
        {
         "id": 3,
@@ -165,10 +159,8 @@
         "benefits":[      
            "improve posture and balance",
            "strengthen and stretch the neck, arms, abdomen, and back"
-       ],
-        "schedule":"Thursday",
-        "Instructor":"Ariane Santos"
-      },
+       ]
+       },
        {
       "id": 3,
         "name": "Downward Facing Dog (Adho Mukha Svanasana)",
@@ -179,10 +171,8 @@
             "benefits the entire body by building stronger hands and wrists and relieving lower back pain",
             "helps reduce symptoms of menstruation and menopause",
             "helps prevent osteoporosis"
-        ],
-        "schedule": "Friday",
-        "Instructor": "Anna Mendoza"        
-        },
+        ]
+      },
       {
         "id": 4,
         "name": "Child’s Pose (Balasana): Stretches the Lower Back",
@@ -194,12 +184,17 @@
             "opens the hips",
             "helps prevent osteoporosis",
             "helps fight insomnia."
-        ],
-        "schedule":"Saturday",
-        "Instructor":"Emily Cruz"
-       },
-       {
+        ]
+      },
+      {
         "id": 5,
+        "name": "Corpse Pose (Shavasana): Relaxes and Relieves Stress",
+        "photo": "https://www.goodnet.org/photos/620x0/30222_hd.jpg",
+        "description":"After a difficult yoga class, corpse pose can feel like a huge relief. It might look more like naptime, but actually, shavasana provides the ideal time to clear the mind and meditate. To enter the pose, lie flat on the back with hands by the side and palms facing up.",
+        "benefits":"relaxes the entire body and relieves stress and fatigue."
+      },
+      {
+        "id": 6,
         "name": "Legs Up the Wall Pose (Viparita Karani): Reduces Insomnia",
         "photo": "https://www.goodnet.org/photos/620x0/30218_hd.jpg",
         "description":"During a tough yoga class, laying back into child’s pose can feel like a huge relief. Even as an easy pose, balasana comes packed with tons of health benefits. Enter the pose by extending the arms forward, spreading the knees apart while keeping the toes touching, and lowering the torso between the thighs.",
@@ -208,10 +203,8 @@
              "alleviate headaches",
             "headaches, lower blood pressure",
             "even reduce insomnia"
-        ],
-            "schedule":"Sunday",
-            "Instructor":"Anna Mendoza"
-       }
+        ]
+      }
      ],
 
      "YogaInstructors": [
@@ -253,7 +246,7 @@
         "photo": "https://yogamanila.com/wp-content/uploads/2020/12/eric-300x300.jpg",
         "description": "Eric Villaluz is a veteran of dance being part of the VIP Dancers that has populated television with dance styles that always captured the zeitgeist. He has doubled up as a choreographer and dance coach, making him the ideal teacher for a multi-tiered class with people of varying abilities.",
         "specialties": "ZUMBA",
-        "schedule": "Monday, Wednesday, Friday, Sunday",    
+        "schedule": "Monday, Wednesday, Friday, Sunday"    
       },
       {
         "id": 5,
@@ -261,7 +254,7 @@
         "photo": "https://yogamanila.com/wp-content/uploads/2018/11/gigi.jpg",
         "description": "Gizela ‘Gigi’ Poblador started practicing Ashtanga yoga in 2007. “I didn’t expect my practice to help me cope with life off the mat. But it did!” Soon after she turned the corner and became a serious practitioner. In 2012, she completed a 200-hour teacher training with John Scott. She has also attended workshops with A.G. Mohan, Richard Freeman, David Keil and recently finished an Intermediate Teacher Training with Hart Lazer that focused on a therapeutic approach.",
         "specialties": "ASHTANGA YOGA",
-        "schedule": "Monday, Wednesday, Friday, Sunday",    
+        "schedule": "Monday, Wednesday, Friday, Sunday"   
       }       
      ],     
 
