@@ -360,9 +360,48 @@
           "id": 4,
           "class": "Body Building"
         }
-      ]
+      ],
 
+      "BodyBuilding": [
+        {
+        "id": 1,
+        "photo": "https://www.bodybuilding.com/images/2018/march/14-keys-to-mega-mass-header-v2-830x467.jpg",
+        "step": "Train Consistently And Consistently Hard!",
+        "details": "This is where it all starts: consistent, hard training. From now on, every workout counts, so go at it with a vengeance! As time goes by, your goal should always be striving to use a little more weight, or do a few more reps. You should routinely take sets to failure—not necessarily every set, but the final set of a movement is a no-brainer.",
+        },
+        {
+        "id": 2,
+        "photo": "https://www.bodybuilding.com/images/2018/march/14-keys-to-mega-mass-v2-1-700xh.jpg",
+        "step": "Systematically Take Time To Chill",
+        "details": "Knowing when to back off—even take a few days off training—can help you progress. You can't drive a car pedal to the metal all the time without blowing a gasket or throwing a rod. Train nonstop at 100 with no plan to dial it back, and you're begging for an injury or sickness.",
+        },
+        {
+        "id": 3,
+        "photo": "https://www.bodybuilding.com/images/2018/march/14-keys-to-mega-mass-v2-2-700xh.jpg",
+        "step": "Work The Big Lifts",
+        "details": "Many lifters try to add mass by simply adding more isolation movements on top of what they're already doing. But now more than ever, you'll get the most bang for your gym time by doing lots of big compound movements"
+        },
+        {
+        "id": 4,
+        "photo": "https://www.bodybuilding.com/images/2018/march/14-keys-to-mega-mass-v2-3-700xh.jpg",
+        "step": "Mix Up Your Rep Ranges",
+        "details": "Doing 8-10 reps per set is a tried and true way to grow. But for more hypertrophy, or when you're an advanced lifter, it's good to mix it up with both heavier sets of 5-8 reps and lighter sets of 12-15 reps. For the quads and calves, push to 20-50 reps occasionally. Different muscle fibers respond differently to changes in load and time under tension.",
+        },
+        {
+        "id": 5,
+        "photo": "https://www.bodybuilding.com/images/2018/march/14-keys-to-mega-mass-v2-4-700xh.jpg",
+        "step":"Find A Great Training Partner",
+        "details": "Once you have a great place to train, your gains will come faster if you have a great person to train with. This person doesn't necessarily have to share your exact goals or be as strong as you are. At the same time, the absolute best partnerships are those that have a touch of friendly rivalry.",
+        },
+        {
+        "id": 6,
+        "photo": "https://www.bodybuilding.com/images/2018/march/14-keys-to-mega-mass-v2-7-700xh.jpg",
+        "step": "Listen To Your Body",
+        "details": "If you don't believe you can grow, you won't. Doubting your ability to succeed can prevent you from working out as hard as you can, and from eating as well as you should.",
+        }
+      ]
 }     
+
       
 
 
