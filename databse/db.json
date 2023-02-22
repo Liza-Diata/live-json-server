@@ -119,25 +119,136 @@
         "schedule": "Wednesday / Sunday"
         }
     ],
-
-
-
-    "employee": [
+    "Yoga":[
+      { "id": 1,
+        "name": "Butterfly Pose (Baddha Konasana)", 
+        "photo": "https://www.goodnet.org/photos/620x0/30221_hd.jpg",   
+        "description": "Sometimes also called the cobbler’s pose, this simple stretch involves sitting with legs spread like the wings of the butterfly. Wrap the hands around the feet and straighten the back to feel a stretch in the arms, back, and shoulders.",
+        "benefits": "stimulating blood circulation to relieving symptoms of menstruation and menopause.", 
+        "schedule": "Monday",
+        "Instructor": "Anna Mendoza"
+       },
+       {
+         "id": "2",
+         "name": "Mountain Pose (Tadasana): Improves Posture",
+         "photo": "https://www.goodnet.org/photos/620x0/30220_hd.jpg",
+         "description": "Mountain pose might seem too simple to have any real benefits. After all, all you have to do is stand there, right? Actually, tadasana can have a very empowering effect. You can achieve the pose by standing tall with legs slightly apart. Hands can hang alongside the body or lift up straight above the head. To get the full effect of the pose, engage the belly and keep thigh muscles firm.",
+         "benefits": [
+           "make you feel stronger",
+           "improve posture",
+           "increase blood circulation",
+           "reduce tension"
+         ],
+        "schedule":"Tuesday",
+        "Instructor": "Ariane Santos"
+       },
+       {
+        "id": 3,
+        "name": "Yoga Squat Pose (Malasana)",
+        "photo": "https://www.goodnet.org/photos/620x0/30215_hd.jpg",
+        "description":"If you’ve ever been to East Asia, you may recognize what’s known as the “Asian squat”. Yoga also incorporates this pose which has loads of health benefits. You can enter malasana by standing with feet parallel, slightly wider than the hips. Then bend knees and slowly lower down the pelvis until the hips go lower than the knees. Keep the back straight and take arms in front in a prayer position.",
+        "benefits":[
+       "Strengthens the Lower Back",
+       "Stretch the groin",
+       "Tones the belly",
+       "releases tension in the hips and knees."
+       ],
+        "schedule":"Wednesday",
+        "Instructor":"Emily Cruz"
+       },
+       {
+        "id": 3,
+        "name": "Cat Cow Pose (Marjaiasana/Bitilasana)",
+        "photo": "https://www.goodnet.org/photos/620x0/30216_hd.jpg",
+        "description":"Start by positioning the body on all fours on the mat with knees aligned underneath the hips and hands below the shoulders. Next, arch the back with the head and tailbone lifted upwards and chest open. On the next breath, flow into the cow pose by arching the back upwards and lowering the head. ",
+        "benefits":[      
+           "improve posture and balance",
+           "strengthen and stretch the neck, arms, abdomen, and back",
+       ],
+        "schedule":"Thursday",
+        "Instructor":"Ariane Santos"
+      },
+       {
+      "id": 3,
+        "name": "Downward Facing Dog (Adho Mukha Svanasana)",
+        "photo": "https://www.goodnet.org/photos/620x0/30217_hd.jpg",
+        "description":"Quite possibly the most well-known of all the yoga poses, downward facing dog gives a full-body stretch and awakening. Enter the pose from the plank position with palms spread. Next, lift the hips and lengthen the tailbone. Keep arms and legs firm with the head between the upper arms",
+        "benefits": [
+            "A Full-Body Rejuvenation",
+            "benefits the entire body by building stronger hands and wrists and relieving lower back pain",
+            "helps reduce symptoms of menstruation and menopause",
+            "helps prevent osteoporosis"
+        ],
+        "schedule": "Friday",
+        "Instructor": "Anna Mendoza"        
+        },
       {
-        "name": "Nihira techiees",
-        "email": "nihiratechiees@gmail.com",
-        "phone": "98899090",
-        "active": true,
-        "id": 1
+        "id": 4,
+        "name": "Child’s Pose (Balasana): Stretches the Lower Back",
+        "photo": "https://www.goodnet.org/photos/620x0/30218_hd.jpg",
+        "description":"During a tough yoga class, laying back into child’s pose can feel like a huge relief. Even as an easy pose, balasana comes packed with tons of health benefits. Enter the pose by extending the arms forward, spreading the knees apart while keeping the toes touching, and lowering the torso between the thighs.",
+        "benefits":[
+            "total relaxation",
+             "stretches the lower back and shoulders",
+            "opens the hips",
+            "helps prevent osteoporosis",
+            "helps fight insomnia."
+        ],
+        "schedule":"Saturday",
+        "Instructor":"Emily Cruz"
+       },
+       {
+        "id": 5,
+        "name": "Legs Up the Wall Pose (Viparita Karani): Reduces Insomnia",
+        "photo": "https://www.goodnet.org/photos/620x0/30218_hd.jpg",
+        "description":"During a tough yoga class, laying back into child’s pose can feel like a huge relief. Even as an easy pose, balasana comes packed with tons of health benefits. Enter the pose by extending the arms forward, spreading the knees apart while keeping the toes touching, and lowering the torso between the thighs.",
+        "benefits":[
+            "refresh the legs and reproductive organs",
+             "alleviate headaches",
+            "headaches, lower blood pressure",
+            "even reduce insomnia"
+        ],
+            "schedule":"Sunday",
+            "Instructor":"Anna Mendoza"
+       }
+     ],
+
+     "schedule": [
+      {
+      "id": 1,
+      "schedule": "Monday"
       },
       {
-        "name": "Ricky Ponting",
-        "email": "rp@in.com",
-        "phone": "98899090",
-        "active": true,
-        "id": 2
+      "id": 1,
+      "schedule": "Tuesday"
+      },
+      {
+      "id": 1,
+      "schedule": "Wednesday"
+      },
+      {
+      "id": 1,
+      "schedule": "Thursday"
+      },
+      {
+      "id": 1,
+      "schedule": "Friday"
+      },
+      {
+      "id": 1,
+      "schedule": "Saturday"
+      },
+      {
+      "id": 1,
+      "schedule": "Sunday"
       }
-    ]
+      ]
+      
+      
+
+
+
+   
      
 }
 
