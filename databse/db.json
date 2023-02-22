@@ -287,9 +287,30 @@
       "id": 1,
       "schedule": "Sunday"
       }
+      ],
+
+      "classes": [
+        {
+          "id": 1,
+          "class": "Martia lArts"         
+        },
+        {
+          "id": 2,
+          "class": "Yoga"
+        },
+        {
+          "id": 3,
+          "class": "Boxing"
+        },
+        {
+          "id": 4,
+          "class": "Body Building"
+        }
       ]
+
 }     
       
+
 
 
 
