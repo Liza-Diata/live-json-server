@@ -117,7 +117,61 @@
         "credentials": "Superfight Record:2-0, Fight Con (2017), Arte Suave (2017)",
         "specialties": "Karate and Judo ",
         "schedule": "Wednesday / Sunday"
-        }
+        },
+        {
+          "id": 4,
+          "name": "Rafael Dos Anjos",
+          "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/Rafael-Dos-Anjos-IP-2.png",
+          "description": "",
+          "credentials": "Professor, Brazilian Jiu-Jitsu and MMA World Champion",
+          "specialties": "Wrestling, Boxing, Muay Thai",
+          "schedule": "Wednesday / Sunday"
+          },
+          {
+            "id": 5,
+            "name": "Demetrious Johnson",
+            "photo": "https://evolve-mma.com/wp-content/uploads/2018/11/DJ-Site-e1543425906412.png",
+            "description": "Demetrious Johnson is an Instructor at Evolve Mixed Martial Arts in Singapore on a seasonal basis. He is widely regarded as the greatest pound-for-pound mixed martial artist in history. As the UFC Flyweight World Champion, he broke the record for the most number of world title defenses (11) in the UFC. Known for his speed and explosive wrestling, he has landed the most takedowns in UFC flyweight history. Demetrious is a multiple-time Fighter of the Year Award winner.",
+            "credentials": "Demetrious currently competes in ONE Championship and is a member of the prestigious Evolve Fight Team. Demetrious is the current ONE Flyweight World Champion.",
+            "specialties": " Brazilian Jiu-Jitsu, MMA",
+            "schedule": "Wednesday / Sunday"
+            },
+            {
+              "id": 6,
+              "name": "Nong-O Gaiyanghadao",
+              "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/Nong-O-IP.png",
+              "description": "Nong-O Gaiyanghadao, formerly known as Nong-O Sit Or, is considered to be one of the best pound for pound Muay Thai fighters in the world today. Nong-O is known for the incredible speed, power and precision behind all his strikes.",
+              "credentials": "Nong-O is a five-division multiple-time World Champion, 4x Lumpinee Muay Thai World Champion, 1x Rajadamnern Muay Thai World Champion, 2x Thailand National Champion, 3x Fighter of the Year, and more. He is also the current and first-ever ONE Bantamweight Muay Thai World Champion.",
+              "specialties": "Muay Thai",
+              "schedule": "Wednesday / Sunday"
+              },
+              {
+                "id": 7,
+                "name": "Adam Shahir Kayoom",
+                "photo": "https://evolve-mma.com/wp-content/uploads/2022/12/COACH-ADAM-1-v2-450x642.png",
+                "description": "Adam is the Head Coach of the famed EVOLVE Fight Team at Evolve Mixed Martial Arts in Singapore. Adam started training in Judo and Tae Kwon Do as a child, but found BJJ when he was 18. He fell in love with it and moved to Brazil to train, eventually earning his black belt in BJJ under Master Ricardo Liborio.",
+                "credentials": "Adam is also a two-time World Champion in Muay Thai, winning the WPMF World Muay Thai World Championship twice. He is a true martial artist, studying multiple martial arts, including Silat, Kali, Aikido, and Judo. Adam established himself as an early pioneer of MMA and BJJ in Asia, and has fought in ONE Championship with his deep knowledge of different martial disciplines.",
+                "specialties": "Muay Thai, Brazilian Jiu-Jitsu, MMA",
+                "schedule": "Wednesday / Sunday"
+              },
+              {
+                "id": 8,
+                "name": "Chatri Sityodtong",
+                "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/Instructors-Chatri-Sitdyodtong.png",
+                "description": "Chatri is an Instructor at Evolve Mixed Martial Arts in Singapore. Inducted into the Black Belt Hall of Fame in 2019, he has over 35 years of martial arts experience as a student, a fighter, a teacher, and a coach. Chatri grew up in Thailand and began his training in Muay Thai at the world-renowned Sityodtong Gym as a young boy. A long-time student of Kru Yodtong Senanan, he has fought professionally in Thailand for the Sityodtong Gym.",
+                "credentials": "Chatri is a certified senior Muay Thai instructor under the legendary Kru Yodtong Senanan of the world-renowned Sityodtong Gym in Thailand. He is also a certified Muay Thai instructor by the World Muay Thai Council (WMC).",
+                "specialties": "Muay Thai",
+                "schedule": "Wednesday / Sunday"
+              },
+              {
+                "id": 9,
+                "name": "Jovinus Ong",
+                "photo": "https://evolve-mma.com/wp-content/uploads/2021/09/Victoria-Lee-In-memorandum-16x9-v2.png",
+                "description": "Jovinus is a WarriorFit Instructor at Evolve Mixed Martial Arts in Singapore. Jovinus holds the National Council on Strength & Fitness (NSCF) Personal Training Certificate and a degree in Sport and Exercise Sciences from Edinburgh Napier University. He has over 2 years of experience as a strength and conditioning coach. He is an experienced fitness instructor and is interested in helping others reach their physical fitness goals and to help them get there with proper training and guidance.",
+                "credentials": "Chatri is a certified senior Muay Thai instructor under the legendary Kru Yodtong Senanan of the world-renowned Sityodtong Gym in Thailand. He is also a certified Muay Thai instructor by the World Muay Thai Council (WMC).",
+                "specialties": "Muay Thai, Mixed Martial Arts",
+                "schedule": "Wednesday / Sunday"
+              }
     ],
     
     "Yoga":[
