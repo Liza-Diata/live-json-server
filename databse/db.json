@@ -399,7 +399,70 @@
         "step": "Listen To Your Body",
         "details": "If you don't believe you can grow, you won't. Doubting your ability to succeed can prevent you from working out as hard as you can, and from eating as well as you should."
         }
-      ]
+      ],
+      
+        "Basic": [
+        {
+        "id": 1,
+        "name": "Mixed Martial Arts",
+        "monthly": "5,000php",
+        "quarterly": "12,000php", 
+        "halfyearly": "25,000php",
+        "yearly": "40,000php",
+        "inclusion": "Unlmited Access to Gym and Equipment, Group Fitness Coaching"
+        },
+        {
+        "id": 2,
+        "name": "Kick Boxing",
+        "monthly": "4,000php",
+        "quarterly": "10,000php", 
+        "halfyearly": "23,000php",
+        "yearly": "35,000php",
+        "inclusion": "Unlmited Access to Gym and Equipment, Group Fitness Coaching"
+        },
+        {
+        "id": 3,
+        "name": "Boxing",
+        "monthly": "3,500php",
+        "quarterly": "8,000php", 
+        "halfyearly": "20,000php",
+        "yearly": "37,000php",
+        "inclusion": "Unlmited Access to Gym and Equipment, Group Fitness Coaching"
+        },
+        {
+        "id": 4,
+        "name": "Brazillian Jiu Jitsu",
+        "monthly": "3,500php",
+        "quarterly": "8,000php", 
+        "halfyearly": "20,000php",
+        "yearly": "37,000php",
+        "inclusion": "Unlmited Access to Gym and Equipment, Group Fitness Coaching"
+        }
+        ],
+        
+        "schedule":[
+        {
+        "id": 1,
+        "morning": [
+              {"first": "6:30 to 7:30"},
+              {"second": "7:30 to 8:30"},
+              {"third": "8:30 to 9:30"}
+            ],
+        "evening": [
+              {"first": "6:00 to 7:00"},
+              {"second": "7:00 to 8:00"},
+              {"third": "8:00 to 9:00"}
+              ]
+        }
+        ]
+        
+        
+        
+        
+
+
+
+
 }     
 
       
