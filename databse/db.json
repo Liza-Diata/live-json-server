@@ -166,13 +166,25 @@
               {
                 "id": 9,
                 "name": "Jovinus Ong",
-                "photo": "https://evolve-mma.com/wp-content/uploads/2021/09/Victoria-Lee-In-memorandum-16x9-v2.png",
+                "photo": "https://evolve-mma.com/wp-content/uploads/2022/09/JOVINUS-1-450x642.png",
                 "description": "Jovinus is a WarriorFit Instructor at Evolve Mixed Martial Arts in Singapore. Jovinus holds the National Council on Strength & Fitness (NSCF) Personal Training Certificate and a degree in Sport and Exercise Sciences from Edinburgh Napier University. He has over 2 years of experience as a strength and conditioning coach. He is an experienced fitness instructor and is interested in helping others reach their physical fitness goals and to help them get there with proper training and guidance.",
                 "credentials": "Chatri is a certified senior Muay Thai instructor under the legendary Kru Yodtong Senanan of the world-renowned Sityodtong Gym in Thailand. He is also a certified Muay Thai instructor by the World Muay Thai Council (WMC).",
                 "specialties": "Muay Thai, Mixed Martial Arts",
                 "schedule": "Wednesday / Sunday"
+              },
+              {
+                "id": 10,
+                "name": "Mikey Musumeci",
+                "photo": "https://evolve-mma.com/wp-content/uploads/2022/04/MIKEY-1-450x642.png",
+                "description": "Mikey Musumeci is an Instructor at Evolve Mixed Martial Arts in Singapore on a seasonal basis. He is a highly decorated Brazilian Jiu-Jitsu martial artist, having won five times World Championships as a colored belt. He holds the unique distinction of being the first American to win the IBJJF World Championship in the male black belt division twice. He has a modern style of grappling, utilizing the berimbolo and crab ride positions heavily.",
+                "credentials": "Multiple-time IBJJF World Champion.",
+                "specialties": "Brazilian Jiu-Jitsu",
+                "schedule": "Wednesday / Sunday"
               }
     ],
+
+
+  
     
     "Yoga":[
       { "id": 1,
@@ -318,27 +330,27 @@
       "schedule": "Monday"
       },
       {
-      "id": 1,
+      "id": 2,
       "schedule": "Tuesday"
       },
       {
-      "id": 1,
+      "id": 3,
       "schedule": "Wednesday"
       },
       {
-      "id": 1,
+      "id": 4,
       "schedule": "Thursday"
       },
       {
-      "id": 1,
+      "id": 5,
       "schedule": "Friday"
       },
       {
-      "id": 1,
+      "id": 6,
       "schedule": "Saturday"
       },
       {
-      "id": 1,
+      "id": 7,
       "schedule": "Sunday"
       }
       ],
@@ -346,7 +358,7 @@
       "classes": [
         {
           "id": 1,
-          "class": "Martia lArts"         
+          "class": "Martia Arts"         
         },
         {
           "id": 2,
@@ -413,7 +425,7 @@
         },
         {
         "id": 2,
-        "name": "Kick Boxing",
+        "name": "Muay Thai (and Kickboxing)",
         "monthly": "4,000php",
         "quarterly": "10,000php", 
         "halfyearly": "23,000php",
@@ -454,7 +466,490 @@
               {"third": "8:00 to 9:00"}
               ]
         }
-        ]
+        ],
+
+      
+
+        "boxingcoaches": [
+          {
+            "id": 1,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/Nong-O-FP-300x417.png",
+            "name": "Nong-O Gaiyanghadao",
+            "Iprofile": "Nong-O Gaiyanghadao, formerly known as Nong-O Sit Or, is considered to be one of the best pound for pound Muay Thai fighters in the world today. Nong-O is known for the incredible speed, power and precision behind all his strikes. Nong-O is a five-division multiple-time World Champion, 4x Lumpinee Muay Thai World Champion, 1x Rajadamnern Muay Thai World Champion, 2x Thailand National Champion, 3x Fighter of the Year, and more. He is also the current and first-ever ONE Bantamweight Muay Thai World Champion. He has fought against fellow legends like Saenchai PKSaenchaiMuayThaiGym, Singdam Kiatmuu9, Petchboonchu F.A.Group, Pakorn Sakyothin, Kongsak Sitboonmee, Sam-A Gaiyanghadao, Sagetdao Petpayathai and many more.",
+            "Fprofile": "Five division Muay Thai World Champion, 1x Rajadamnern Muay Thai World Champion, 2x Thailand National Champion, 3x Fighter of the Year, One of the best pound-for-pound fighters in Muay Thai history, Known for the incredible speed, precision, and power behind his strikes, Regarded as one of the most exciting Muay Thai fighters to ever step into the ring."
+
+          },
+          {
+            "id": 2,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2022/12/COACH-ADAM-1-v2-450x642.png",
+            "name": "Adam Shahir Kayoom",
+            "Iprofile": "Adam is the Head Coach of the famed EVOLVE Fight Team at Evolve Mixed Martial Arts in Singapore. Adam started training in Judo and Tae Kwon Do as a child, but found BJJ when he was 18. He fell in love with it and moved to Brazil to train, eventually earning his black belt in BJJ under Master Ricardo Liborio. Adam is also a two-time World Champion in Muay Thai, winning the WPMF World Muay Thai World Championship twice. He is a true martial artist, studying multiple martial arts, including Silat, Kali, Aikido, and Judo. Adam established himself as an early pioneer of MMA and BJJ in Asia, and has fought in ONE Championship with his deep knowledge of different martial disciplines.",
+            "Fprofile": "2x WPMF World Muay Thai World Champion, Holds black belts in Tae Kwon Do, Shorinji Ryu Karate Do and BJJ First Malaysian to be conferred a black belt in BJJ. Trained in multiple martial arts, including Silat, Kali, Muay Thai, and Judo, Pioneer of MMA and BJJ in Asia"
+
+          },
+          {
+            "id": 3,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/Instructors-Chatri-Sitdyodtong.png",
+            "name":"Chatri Sityodtong",
+            "Iprofile" : "Chatri is an Instructor at Evolve Mixed Martial Arts in Singapore. Inducted into the Black Belt Hall of Fame in 2019, he has over 35 years of martial arts experience as a student, a fighter, a teacher, and a coach. Chatri grew up in Thailand and began his training in Muay Thai at the world-renowned Sityodtong Gym as a young boy. A long-time student of Kru Yodtong Senanan, he has fought professionally in Thailand for the Sityodtong Gym.",
+            "Fprofile": "2x WPMF World Muay Thai World Champion"
+
+          },
+          {
+            "id": 4,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2018/11/DJ-Site-e1543425906412.png",
+            "name": "Demetrious Johnson",
+            "Iprofile" : "Demetrious Johnson is an Instructor at Evolve Mixed Martial Arts in Singapore on a seasonal basis. He is widely regarded as the greatest pound-for-pound mixed martial artist in history. As the UFC Flyweight World Champion, he broke the record for the most number of world title defenses (11) in the UFC. Known for his speed and explosive wrestling, he has landed the most takedowns in UFC flyweight history. Demetrious is a multiple-time Fighter of the Year Award winner.",
+            "Fprofile" : "Holds the record for the most UFC World Title defenses (11), Known as the greatest pound-for-pound mixed martial artist in history, Outside of martial arts, Demetrious is an avid video gamer, Known for his quick striking and elusive movement, Second fighter in UFC history to be awarded bonus payments in all four possible categories (Fight, Knockout, Performance, & Submission of the Night awards), 2017 ESPY Awards Fighter of the Year, 2013 Fox Sports Fighter of the Year"
+
+          },
+          {
+            "id": 5,
+            "photo": "Rafael Dos Anjos",
+            "Iprofile" : "Rafael is an Instructor at Evolve Mixed Martial Arts in Singapore on a seasonal basis. He has been a member of the Evolve Fight Team since 2009. Rafael is a UFC Lightweight World Champion with a professional record of 28-11. He has consistently been one of the top MMA fighters in his weight class around the world. In his quest to keep learning and evolving, he splits his time between Evolve MMA and California for training and fight camps. Prior to the UFC, Rafael was Champion of Fury Fighting Championship. Rafael is also well-versed in wrestling, boxing, and Muay Thai. He has also been a Mundials BJJ World Champion. Rafael is a Black Belt in Brazilian Jiu-Jitsu under Aldo Januario. He is also known for his very aggressive striking style and studies Muay Thai under the legendary Evolve Muay Thai Instructor Team.",
+            "Fprofile": "UFC Lightweight World Champion, Fury FC Champion, Brazil’s top lightweight fighter, Favorite techniques: the rear naked choke and armbar, Winner of UFC, Fight of the Night award, Winner of UFC Submission of the Night award"
+          },
+          {
+            "id": 6,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/ShinyaAoki-IP.png",
+            "name": "Shinya Aoki",
+            "Iprofile" : "Shinya is an Instructor at Evolve Mixed Martial Arts in Singapore on a seasonal basis. A Black Belt in both Brazilian Jiu-Jitsu and Judo, he is a 4x ONE Championship Lightweight World Champion. He was also the DREAM FC Lightweight World Champion. Shinya is widely regarded as the #1 pound-for-pound MMA fighter in Asia. He brings over 20 years of martial arts experience to Evolve MMA, competing at the highest levels in the world. He is currently the top BJJ Black Belt in Japan, and he has won every major BJJ tournament in Japan. For MMA, Shinya Aoki has won every major title in Japan including Shooto, DEEP, and DREAM. He holds a Black Belt in Brazilian Jiu-Jitsu under the legendary Yuki Nakai, the 1st BJJ Black Belt in Japan under Carlos Gracie Jr.",
+            "Fprofile": "ONE Championship Lightweight World Champion, DREAM Fighting Championship Lightweight World Champion, Asia’s top professional MMA fighter, One of the top on,rapplers in the world, Favorite techniques: the rear naked choke and leg locks, Known for his flying submissions, Considered to be one of the top lightweight MMA fighters in the world"
+          },
+          {
+            "id": 7,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/Angela-Lee-updated-450x489.png",
+            "name": "Angela Lee",
+            "Iprofile" : "Angela Lee is an Instructor at Evolve Mixed Martial Arts in Singapore on a seasonal basis. Angela is the youngest MMA World Champion in history for any major global MMA organization.  She is the current ONE Atomweight World Champion, a 2-time Pankration World Champion and a Wrestling State Champion. She has competed in and won numerous World, National, and Regional martial arts competitions such as the World Pankration Athlima Federation World Championships and FILA World Championships. She also holds a 1st degree Black Belt in Taekwondo and TDS, and a Black Belt in Brazilian Jiu-Jitsu. A rising star of Singaporean-Korean descent, Angela come from a family of impressive martial artists trained by her father who holds Black Belts in three different martial arts disciplines including a 1st Degree Black Belt in Brazilian Jiu-Jitsu and a 6th Degree Hapdosool Master Black Belt, and her mother who holds a 5th Degree Hapdosool Master Black Belt.",
+            "Fprofile": "ONE Atomweight World Champion, Professional MMA fighter, 2x Pankration World Champion, Hawaii State Wrestling Champion, Black Belt in Taekwondo and TDS, Black Belt in Brazilian Jiu-Jitsu"
+          },
+          {
+            "id": 8,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2020/03/XJN-updated-450x675.png",
+            "name": "Xiong Jing Nan",
+            "Iprofile": "Xiong Jing Nan is an Instructor at Evolve Mixed Martial Arts in Singapore. She is the ONE Women’s Strawweight World Champion and China’s first-ever mixed martial arts World Champion. Before transitioning to mixed martial arts, she represented China in boxing internationally. Jing Nan is also a China Open BJJ Champion.",
+            "Fprofile": "ONE Women’s Strawweight World Champion, China’s first-ever mixed martial arts World Champion, Represented China in boxing on the international level, China Open BJJ Champion"
+          },
+          {
+            "id": 9,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/Christian-Lee-updated-450x487.png",
+            "name": "Christian Lee",
+            "Iprofile" : "Christian Lee is an Instructor at Evolve Mixed Martial Arts in Singapore on a seasonal basis. Christian is the ONE Lightweight World Champion and the youngest male World Champion in mixed martial arts history. He is also the ONE Lightweight World Grand Prix Champion. Christian is a multiple-time Junior Pankration World Champion with a Black Belt in Brazilian Jiu-Jitsu. He was voted ‘Most Outstanding Athlete’ at the 2013 FILA World Championship after winning five World Titles across the disciplines of Brazilian Jiu-Jitsu, Pankration, MMA, and Submission Grappling. He also holds a 1st degree Black Belt in Taekwondo and TDS. Christian holds the record for most finishes in ONE Championship history.",
+            "Fprofile": "ONE Lightweight World Champion, ONE Welterweight World Champion, ONE Lightweight World Grand Prix Champion, Youngest male World Champion in mixed martial,arts history, Multiple-time Junior Pankration World Champion, Black Belt in Brazilian Jiu-Jitsu"
+          },
+          {
+            "id": 10,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2019/01/HIROKI-BELT-1-450x642.png",
+            "name": "Hiroki Akimoto",
+            "Iprofile": "Hiroki Akimoto is an Instructor at Evolve Mixed Martial Arts in Singapore. He is a WFKO Kyokushin Karate World Champion, WBC Muay Thai Japan Champion, Japan Kickboxing Federation Champion, and more. Known for his crisp technique and explosive power, he holds a Kyokushin Karate Black Belt.",
+            "Fprofile": "ONE Bantamweight Kickboxing World Champion, WFKO Kyokushin Karate World Champion, WBC Muay Thai Japan Champion, Japan Kickboxing Federation Champion,Kyokushin Karate Black Belt, Known for his crisp technique and powerful roundhouse kick, Started karate at the age of 8 to defend himself from bullies" 
+          },
+          {
+            "id": 11,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2016/01/petchboonchu-FP-450x626.png",
+            "name": "Petchboonchu FA Group",
+            "Iprofile" : "Petchboonchu is an Instructor at Evolve Mixed Martial Arts in Singapore. With 14 titles under his belt, Petchboonchu is the most decorated Muay Thai World Champion in history. Petchboonchu is a five-division multiple-time World Champion, multiple time Muay Thai Lumpinee World Champion, Rajadamnern Muay Thai World Champion, WMC Muay Thai World Champion, Thailand Muay Thai World Champion, and more. He has fought against the legendary Saenchai PKSaenchaimuaythaigym and won thrice. Petchboonchu is regarded as one of the greatest clinch fighters of all time.",
+            "Fprofile": "One of the greatest clinch fighters of all time, Most decorated Muay Thai fighter in history, Won the original Lumpinee stadium’s last main event, Fought against the legendary Saenchai PKSaenchaimuaythaigym and won thrice"
+          },
+          {
+            "id": 12,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2016/05/ROGERGracie.png",
+            "name": "Roger Gracie",
+            "Iprofile" : "Roger Gracie is an Instructor at Evolve Mixed Martial Arts in Singapore on a seasonal basis. He is regarded as one of the greatest Brazilian Jiu-Jitsu legends of all time and is the first person to win 10 Mundials World Championships in the Black Belt Division. He is the grandson of Carlos Gracie, the founder of Brazilian Jiu-Jitsu.",
+            "Fprofile": "3rd degree Black Belt in Brazilian Jiu-Jitsu under Carlos Gracie Jr., 10 x Mundials BJJ World Champion, Has submitted all his opponents in the Mundials, ONE Light Heavyweight World Champion, 2 x ADCC World Champion"
+          },
+          {
+            "id": 13,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2021/09/buchecha-300x426.png",
+            "name": "Marcus Almeida",
+            "Iprofile" : "Marcus “Buchecha” Almeida is an Instructor at Evolve Mixed Martial Arts in Singapore on a seasonal basis. Known for his athleticism and technical mastery, he is the most decorated Brazilian Jiu-Jitsu World Champion in history, having won 13 BJJ World Championships.",
+            "Fprofile": "Most decorated competitor in Brazilian Jiu-Jitsu history, 13x BJJ world Champion, 2 x ADCC World Champion"
+          },
+          {
+            "id": 14,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2022/04/MIKEY-1-450x642.png",
+            "name": "Mikey Musumeci",
+            "Iprofile" : "Mikey Musumeci is an Instructor at Evolve Mixed Martial Arts in Singapore on a seasonal basis. He is a highly decorated Brazilian Jiu-Jitsu martial artist, having won five times World Championships as a colored belt. He holds the unique distinction of being the first American to win the IBJJF World Championship in the male black belt division twice. He has a modern style of grappling, utilizing the berimbolo and crab ride positions heavily.",
+            "Fprofile": "Multiple-time IBJJF World Champion, Won sequential IBJJF World Championships as a colored belt, First American to win the IBJJF World Championship in the male black belt division twice"
+          },
+          {
+            "id": 15,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2017/10/Tonon-415x545-e1508244940103-450x583.png",
+            "name": "Garry Tonon",
+            "Iprofile": "Garry Tonon is an Instructor at Evolve Mixed Martial Arts in Singapore on a seasonal basis. He is widely regarded as one of the best submission grapplers on the planet today. With a dynamic and exciting style, Garry is known for his fearless approach and is one of the world’s foremost leg lock experts.  Garry is currently a professional MMA fighter in ONE Championship and a member of the prestigious Evolve Fight Team.",
+            "Fprofile": "3-time Brazilian Jiu-Jitsu World Champion, 5-time Eddie Bravo Invitational Champion"
+          },
+          {
+            "id": 16,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/IMG_1155-Dejdamrong_Instructor.png",
+            "name": "Dejdamrong Sor Amnuaysirichok",
+            "Iprofile": "Dejdamrong is an Instructor at Evolve Mixed Martial Arts in Singapore. He is a ONE Strawweight World Champion and a 3x Lumpinee Muay Thai World Champion with a professional Muay Thai record of 282-65. Kru Rong is also a Thailand National Champion and Omnoi Stadium Champion. Dejdamrong is known as a technical fighter with quick hands and lightning feet. He has some of the most unique and creative striking combinations in the sport of Muay Thai. Dejdamrong is a certified Muay Thai instructor from Thailand who brings over 25 years of competitive experience to Evolve MMA.",
+            "Fprofile": "ONE Strawweight World Champion, Muay Thai World Champion, 3x Lumpinee World Champion, Thailand National Champion, Omnoi Champion, Shell Rimula Tournament Champion, Channel 3 Muay Thai Champion, Professional MMA fighter for ONE Championship"       
+          },
+          {
+            "id": 17,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/LeandroIssa-IP.png",
+            "name": "Leandro Thomas Issa da Silva",
+            "Iprofile" : "Leandro Thomas Issa da Silva is an Instructor at Evolve Mixed Martial Arts in Singapore. He is a Mundials World Champion in Brazilian Jiu-Jitsu with over 20 years of experience. He has won numerous regional and national titles in Brazil. He is currently a professional MMA fighter with a 17-7 record competing in the ONE Championship. Leandro is a 3rd degree Black Belt in Brazilian Jiu-Jitsu. He trained under Roberto “Gordo” Correa at Evolve Brazil before moving to Evolve Singapore to live and teach on a permanent basis. Leandro has also competed in MMA events such as the UFC, Art of War, Martial Combat FC, and Jungle Fight. Since arriving at Evolve MMA, Leandro has worked closely with the Evolve Muay Thai World Champions to improve his striking. Leandro’s favorite BJJ techniques include the armbar, rear naked choke, omoplata, and flying triangle choke.",
+            "Fprofile": "ONE Championship Fighter, Mundials World Champion in Brazilian Jiu-Jitsu, Winner of UFC Fight of the Night and UFC Submission of the Night awards, Martial Combat FC Featherweight Super Fight Champion, Professional MMA fighter, Favorite techniques: armbar, rear naked choke, omoplata, flying triangle choke"
+          },
+          {
+            "id": 18,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/Kru-Aa_Instructor.png",
+            "name": "Sagetdao Petpayathai",
+            "Iprofile" : "Sagetdao Petpayathai is a multiple-time Muay Thai World Champion, winning every major title in Muay Thai today. A big Muay Thai Superstar and Legend, he is a 4x Lumpinee World Champion, 1x Rajdamnern World Champion, 2x MAX Muay Thai World Champion, 1x WBC Muay Thai World Champion, 1x WPMF World Champion, etc. Sagetdao has beaten some of the biggest names in Muay Thai such as Saenchai PKSaenchaimuaythaigym, Petchboonchu FA Group, Singdam Kiatmuu9, Nong-O Gaiyanghadao, Anuwat Kaewsamrit, Nongbee Kiatyongyuth, and many others. He has a professional fight record of 162 wins and 62 losses.",
+            "Fprofile": "One of the greatest Muay Thai World Champions in history, Multiple-time Muay Thai World Champion, Defeated some of the biggest names in history, Held every major Muay Thai world title, Voted as one of the greatest fighters in the history of Muay Thai, Regarded as one of the most complete fighters in Muay Thai history"
+          },
+          {
+            "id": 19,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/Papa-Daorung_Instructor.png",
+            "name": "Daorung Sityodtong",
+            "Iprofile": "Daorung is an Instructor of Mixed Martial Arts in Singapore. He is a former Muay Thai Champion in Thailand. He brings over 48 years of professional Muay Thai experience as a professional fighter and as a trainer of Lumpinee Muay Thai World Champions. He has fought in over 100 professional Muay Thai fights. His knowledge of the fight game is unsurpassed. He has been at the Sityodtong Camp for most of his career as a fighter and elite trainer. Daorung is known for his strong low leg kicks and big right hand. Although he is ring-proven, Daorung is also a street fighter with hundreds of street fights to his name.",
+            "Fprofile": "Multiple-time Muay Thai World Champion"
+          },
+          {
+            "id": 20,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/IMG_1204-Nontachai-Sit-O.png",
+            "name": "Nontachai, Sit-O",
+            "Iprofile" : "Nontachai is an Instructor at Evolve Mixed Martial Arts in Singapore. He is a 3x Lumpinee Muay Thai World Champion, 1x Rajdamnern World Champion, and a Thailand Champion. As one of the top World Champions in Thailand, Nontachai has the distinction of fighting and beating many Muay Thai legends. In his elite career, he has won 7 championship title belts at the highest levels of Muay Thai in Thailand. The Thai media has labeled him as one of the most dominant fighters in Muay Thai due to his aggressive style.",
+            "Fprofile": "Nontachai has competed around the world including Finland, Italy, France, and Holland. According to the Evolve Muay Thai instructors, Nontachai is one of the best football players on the team. Nontachai names his toughest opponents as fellow instructors Namsaknoi and Orono."
+          },
+          {
+            "id": 21,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2018/07/Kaoklai-Kaennorsing-450x537.png",
+            "name": "Kaoklai Kaennorsing",
+            "Iprofile" : "Kaoklai Kaennorsing is an Instructor at Evolve Mixed Martial Arts in Singapore. He is a 2x Rajadamnern Muay Thai World Champion, WBC Muay Thai World Champion, K-1 World Grand Prix Champion, and more. Fighting since the age of 8, Kaoklai has over 200 professional Muay Thai fights. Known for his well-rounded style and often competing against much larger opponents, he has fought some of the greatest Muay Thai and kickboxing legends such as Lamsongkram Chuwattana, Ray Sefo, Alexey Ignashov, and Francois Botha, among others. His favorite techniques are his roundhouse kick and push kick.",
+            "Fprofile": "2x Rajadamnern Muay Thai World Champion, WBC Muay Thai World Champion, K-1 World Grand Prix Champion, Known for his ability to pull off stunning knockouts, Known for often fighting much larger opponents, Competed in over 200 professional Muay Thai fights"
+          }
+        ],
+
+        "BJJcoaches": [
+          {
+            "id": 1,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2017/10/Tonon-415x545-e1508244940103-450x583.png",
+            "name": "Garry Tonon", 
+            "Iprofile": "Garry Tonon is an Instructor at Evolve Mixed Martial Arts in Singapore on a seasonal basis. He is widely regarded as one of the best submission grapplers on the planet today. With a dynamic and exciting style, Garry is known for his fearless approach and is one of the world’s foremost leg lock experts. He is a 3-time Brazilian Jiu-Jitsu World Champion, a 5-time Eddie Bravo Invitational Champion, and a Pan American Champion. Garry is currently a professional MMA fighter in ONE Championship and a member of the prestigious Evolve Fight Team.",
+            "Fprofile": "Garry is a Black Belt in Brazilian Jiu-Jitsu under Tom DeBlass. His favorite BJJ techniques include the heel hook and the rear naked choke."
+          },
+          {
+            "id": 2,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/RafaelCorreaDeLima-v2-IP.png",
+            "name": "Rafael Correa de Lima", 
+            "Iprofile": "Rafael is an Instructor at Evolve Mixed Martial Arts on a seasonal basis. He is a Mundials BJJ Black Belt World Champion, and he is responsible for the course curriculum of the Renzo Gracie Brazilian Jiu-Jitsu Program at Evolve Mixed Martial Arts. He brings over 25 years of experience in Brazilian Jiu-Jitsu. Rafael grew up in Brazil training side by side with the Gracie family. He has been a close friend of Renzo Gracie’s for over 30 years. Rafael has fought in hundreds of BJJ fights. He was the winner of the 1998 Mundials World Championships in the Black Belt Division. He is also a 5 time National Champion of Brazil where he was voted the most technical fighter and had the fastest submission (12 seconds). He is also a runner-up in ADCC Brazil. He has competed and won in numerous other tournaments around the world.",
+            "Fprofile": "Mundials BJJ Black Belt World Champion with 30 years of experience, 5 time National Champion of Brazil, Runner-up in ADCC, Winner of fastest submission (12 seconds) at World Championships"
+          },
+          {
+            "id": 3,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2015/12/AlexSilva-IP.png",
+            "name": "Alex Silva", 
+            "Iprofile": "Alex is an Instructor at Evolve Mixed Martial Arts in Singapore. He is a ONE Strawweight World Champion and a Copa do Mundo World Champion in Brazilian Jiu-Jitsu with over 20 years of experience. He has won numerous regional and national titles in Brazil. Alex’s favorite BJJ techniques include the armbar and rear naked choke.",
+            "Fprofile": "Brazilian Jiu-Jitsu World Champion, Winner of numerous regional and national titles, Deep experience in BJJ, Brazilian Jiu-Jitsu Black Belt, Former ONE Strawweight World Champion"
+          },
+          {
+            "id": 4,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/GamalHassan-IP.png",
+            "name": "Gamal Hassan", 
+            "Iprofile": "Gamal Hassan is an Instructor at Evolve Mixed Martial Arts in Singapore. He is a Brazil Nationals Champion in Brazilian Jiu-Jitsu with over 15 years of experience. He is the winner of numerous regional and national competitions in Brazil. Gamal’s favorite techniques are the armbar and the choke",
+            "Fprofile": "Gamal holds a Black Belt in Brazilian Jiu-Jitsu under Checkmat."
+          },
+          {
+            "id": 5,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/Teco-Shinzato-IP-001.png",
+            "name": "Teco Shinzato", 
+            "Iprofile": "Teco Shinzato is an Instructor at Evolve Mixed Martial Arts in Singapore. He is a 2x Black Belt Mundials World Champion in Brazilian Jiu-Jitsu with over 30 years of experience. He is the winner of numerous regional and national competitions in Brazil. Teco’s favorite techniques are the rear naked choke and arm bar",
+            "Fprofile": "Teco holds a 4th degree Black Belt in Brazilian Jiu-Jitsu under the legendary Elcio Figueiredo."
+          },
+          {
+            "id": 6,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2018/02/Valdir-Rodrigues-1-450x537.png",
+            "name": "Valdir Rodrigues", 
+            "Iprofile": "Valdir Rodrigues is an Instructor at Evolve Mixed Martial Arts in Singapore. He is a Mundials World Championship Bronze Medalist with over 20 years of experience. He is also a Brazil Nationals Champion, a Pan American Champion, and a South American Champion. Valdir’s favorite position is the half guard.",
+            "Fprofile": "Valdir holds a 2nd degree Black Belt in Brazilian Jiu-Jitsu under Erivaldo Junior from Liga Jiu-Jitsu."
+          },
+          {
+            "id": 7,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2018/02/Professor-Fabio-Da-Mata.png",
+            "name": "Fabio Da Mata", 
+            "Iprofile": "Fabio Da Mata is an Instructor at Evolve Mixed Martial Arts in Singapore. He is a Mundials World Championship Bronze Medalist with over 15 years of experience. He is also a 2x Brazil Nationals Champion and a 3x Sao Paulo State Champion. Fabio’s favorite position is the half guard and his favorite technique is the arm triangle.",
+            "Fprofile": "Fabio holds a Black Belt in Brazilian Jiu-Jitsu under Erivaldo Junior from Liga Jiu-Jitsu."
+          },
+          {
+            "id": 8,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2019/11/Rodrigo-Marello-e1574869502402-450x603.png",
+            "name": "Rodrigo Marello", 
+            "Iprofile": "Rodrigo Marello is an Instructor at Evolve Mixed Martial Arts in Singapore. He is a No-Gi Brazilian Jiu-Jitsu World Champion, Pan American Champion, and South American Champion with over 10 years of experience. Rodrigo’s favorite position is closed guard, and his favorite submission is the straight foot lock.",
+            "Fprofile": "Rodrigo holds a Black Belt in Brazilian Jiu-Jitsu. His mother, who was his first instructor, also holds a Black Belt in Brazilian Jiu-Jitsu."
+          },
+          {
+            "id": 9,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2020/01/Thales-Nakassu-e1578121221908-300x441.png",
+            "name": "Thales Nakassu", 
+            "Iprofile": "Thales Nakassu is an Instructor at Evolve Mixed Martial Arts in Singapore. He is a South American Champion, 3x South Brazilian Champion, and Sao Paulo State Champion with over 15 years of experience. He is also a professional MMA fighter with a 5-1 record. Thales’ favorite submissions are the triangle choke and D’Arce choke. He has a Bachelor’s Degree in Physical Education.",
+            "Fprofile": ""
+          },
+          {
+            "id": 10,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2015/12/AlexSilva-IP.png",
+            "name": "Alex Silva", 
+            "Iprofile": "Alex is an Instructor at Evolve Mixed Martial Arts in Singapore. He is a ONE Strawweight World Champion and a Copa do Mundo World Champion in Brazilian Jiu-Jitsu with over 20 years of experience. He has won numerous regional and national titles in Brazil. Alex’s favorite BJJ techniques include the armbar and rear naked choke.",
+            "Fprofile": "Brazilian Jiu-Jitsu World Champion, Winner of numerous regional and national titles, Deep experience in BJJ, Brazilian Jiu-Jitsu Black Belt, Former ONE Strawweight World Champion"
+          },
+          {
+            "id": 11,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2021/05/ongree-450x635.png",
+            "name": "Ongree Sor Dechapant", 
+            "Iprofile": "Ongree Sor Dechapant is an Instructor at Evolve Mixed Martial Arts in Singapore. He is a Lumpinee Muay Thai World Champion, Rajadamnern Muay Thai World Champion, Channel 7 Muay Thai Champion, and more. Known for his direct, clinch-heavy style, he has fought some of the greatest Muay Thai legends, such as Panpayak Jitmuangnon, Puenkon Tor Surat, and Rungnarai Kiatmookao, among others. His favorite techniques are his knees from the clinch. Fighting since the age of 10, he has over 300 professional Muay Thai fights.",
+            "Fprofile": "Lumpinee Muay Thai World Champion, Rajadamnern Muay Thai World Champion, Channel 7 Muay Thai Champion"
+          },
+          {
+            "id": 12,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/Chaowalith-Jockey-Gym-Instructors.png",
+            "name": "Chaowalit Jocky Gym", 
+            "Iprofile": "Chaowalit is an Instructor at Evolve Mixed Martial Arts in Singapore. He is a 3 time Muay Thai World Champion. He is a Rajdamnern Stadium World Champion, Thailand National Champion, and WMC World Champion. He is an elite professional fighter with a fight record of 172-34. With over 21 years of professional fighting experience at Rajdamnern Stadium, Lumpinee Stadium and other stadiums around the world, his style is a ferocious blend of beautiful kicks and elbows. His favorite techniques are the cartwheel kick, the high roundhouse kick, and the flying push kick.",
+            "Fprofile": "3 time Muay Thai World Champion Won championships at Rajdamnern Stadium, Thailand Nationals, and WMC. Favorite techniques: cartwheel kick, high roundhouse kick, and flying push kick"
+          },
+          {
+            "id": 13,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2017/01/KRU-KO-IP.png",
+            "name": "Kwankhao Mor. Rattanabandit", 
+            "Iprofile": "Kwankhao is an Instructor at Evolve Mixed Martial Arts in Singapore. He is a Rajadamnern Stadium Super Featherweight Muay Thai World Champion, Thailand National Super Featherweight Muay Thai Champion, and Toyota Marathon Tournament Champion. As one of the top World Champions in Thailand, Kwankhao has the distinction of fighting Muay Thai legends such as Sam-A Gaiyanghadao, Petchmorakot Petchyindee, Muangthai PK Saenchaimuaythaigym, and Phetpanomrung Mor. Rattanabandit.",
+            "Fprofile": "Thailand National Super Featherweight Muay Thai Champion Rajadamnern Stadium Super Featherweight Muay Thai World Champion, Toyota Marathon Tournament Champion Fought some of the biggest names of his era. Regarded as one of the most technical fighters in Muay Thai today"
+          },
+          {
+            "id": 14,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2022/06/Danielle-Kelly-2-450x642.png",
+            "name": "Danielle Kelly", 
+            "Iprofile": "Danielle is a seasonal Instructor at Evolve Mixed Martial Arts in Singapore. She is a BJJ black belt under Karel “Silver Fox” Parel. At just 26 years old, Kelly has competed and won against some of the best grapplers in the world, including beating multiple-time IBJJF World Champion Sofia Amarante via rear-naked choke. Kelly is also preparing to make her MMA debut as she hones her striking prowess. Danielle is from Philadelphia, USA.",
+            "Fprofile": "Veteran BJJ competitor in numerous fight promotions, including WNO, EBI, ADCC Trials, and UFC Fight Pass Invitational Wins against veterans such as Carla Esparza, Roxanne Modafferi, and Cynthia Calvillo, Rising star in the international grappling scene Black Belt in Brazilian Jiu-Jitsu ONE Championship Superstar"
+          },
+          {
+            "id": 15,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/BrunoPucci-IP.png",
+            "name": "Bruno Pucci", 
+            "Iprofile": "Bruno Pucci is an Instructor at Evolve Mixed Martial Arts in Singapore. He is a 2 time Brazilian Jiu-Jitsu No-Gi World Champion with over 10 years of experience. He has won numerous regional and national titles in Brazil. He is also a professional MMA fighter with a 7-4 record. He currently competes in ONE Championship, Asia’s largest and most prestigious MMA event. His favorite move is the rear naked choke. In his competitive career, Bruno has utilized many variations of the choke to submit his opponents.",
+            "Fprofile": "ONE Championship Superstar Featherweight Contender, World Champion in No-Gi Brazilian Jiu-Jitsu, Professional MMA fighter, Favorite techniques: the armbar and rear naked choke"
+          },
+          {
+            "id": 16,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/IMG_1204-Nontachai-Sit-O.png",
+            "name": "Nontachai, Sit-O",
+            "Iprofile" : "Nontachai is an Instructor at Evolve Mixed Martial Arts in Singapore. He is a 3x Lumpinee Muay Thai World Champion, 1x Rajdamnern World Champion, and a Thailand Champion. As one of the top World Champions in Thailand, Nontachai has the distinction of fighting and beating many Muay Thai legends. In his elite career, he has won 7 championship title belts at the highest levels of Muay Thai in Thailand. The Thai media has labeled him as one of the most dominant fighters in Muay Thai due to his aggressive style.",
+            "Fprofile": "Nontachai has competed around the world including Finland, Italy, France, and Holland. According to the Evolve Muay Thai instructors, Nontachai is one of the best football players on the team. Nontachai names his toughest opponents as fellow instructors Namsaknoi and Orono."
+          },
+          {
+            "id": 17,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2016/01/petchboonchu-FP-450x626.png",
+            "name": "Petchboonchu FA Group",
+            "Iprofile" : "Petchboonchu is an Instructor at Evolve Mixed Martial Arts in Singapore. With 14 titles under his belt, Petchboonchu is the most decorated Muay Thai World Champion in history. Petchboonchu is a five-division multiple-time World Champion, multiple time Muay Thai Lumpinee World Champion, Rajadamnern Muay Thai World Champion, WMC Muay Thai World Champion, Thailand Muay Thai World Champion, and more. He has fought against the legendary Saenchai PKSaenchaimuaythaigym and won thrice. Petchboonchu is regarded as one of the greatest clinch fighters of all time.",
+            "Fprofile": "One of the greatest clinch fighters of all time, Most decorated Muay Thai fighter in history, Won the original Lumpinee stadium’s last main event, Fought against the legendary Saenchai PKSaenchaimuaythaigym and won thrice"
+          },
+          {
+            "id": 18,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/ShinyaAoki-IP.png",
+            "name": "Shinya Aoki",
+            "Iprofile" : "Shinya is an Instructor at Evolve Mixed Martial Arts in Singapore on a seasonal basis. A Black Belt in both Brazilian Jiu-Jitsu and Judo, he is a 4x ONE Championship Lightweight World Champion. He was also the DREAM FC Lightweight World Champion. Shinya is widely regarded as the #1 pound-for-pound MMA fighter in Asia. He brings over 20 years of martial arts experience to Evolve MMA, competing at the highest levels in the world. He is currently the top BJJ Black Belt in Japan, and he has won every major BJJ tournament in Japan. For MMA, Shinya Aoki has won every major title in Japan including Shooto, DEEP, and DREAM. He holds a Black Belt in Brazilian Jiu-Jitsu under the legendary Yuki Nakai, the 1st BJJ Black Belt in Japan under Carlos Gracie Jr.",
+            "Fprofile": "ONE Championship Lightweight World Champion, DREAM Fighting Championship Lightweight World Champion, Asia’s top professional MMA fighter, One of the top on,rapplers in the world, Favorite techniques: the rear naked choke and leg locks, Known for his flying submissions, Considered to be one of the top lightweight MMA fighters in the world"
+          },
+          {
+            "id": 19,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/Papa-Daorung_Instructor.png",
+            "name": "Daorung Sityodtong",
+            "Iprofile": "Daorung is an Instructor of Mixed Martial Arts in Singapore. He is a former Muay Thai Champion in Thailand. He brings over 48 years of professional Muay Thai experience as a professional fighter and as a trainer of Lumpinee Muay Thai World Champions. He has fought in over 100 professional Muay Thai fights. His knowledge of the fight game is unsurpassed. He has been at the Sityodtong Camp for most of his career as a fighter and elite trainer. Daorung is known for his strong low leg kicks and big right hand. Although he is ring-proven, Daorung is also a street fighter with hundreds of street fights to his name.",
+            "Fprofile": "Multiple-time Muay Thai World Champion"
+          },
+          {
+            "id": 20,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/IMG_1204-Nontachai-Sit-O.png",
+            "name": "Nontachai, Sit-O",
+            "Iprofile" : "Nontachai is an Instructor at Evolve Mixed Martial Arts in Singapore. He is a 3x Lumpinee Muay Thai World Champion, 1x Rajdamnern World Champion, and a Thailand Champion. As one of the top World Champions in Thailand, Nontachai has the distinction of fighting and beating many Muay Thai legends. In his elite career, he has won 7 championship title belts at the highest levels of Muay Thai in Thailand. The Thai media has labeled him as one of the most dominant fighters in Muay Thai due to his aggressive style.",
+            "Fprofile": "Nontachai has competed around the world including Finland, Italy, France, and Holland. According to the Evolve Muay Thai instructors, Nontachai is one of the best football players on the team. Nontachai names his toughest opponents as fellow instructors Namsaknoi and Orono."
+          },
+          {
+            "id": 21,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2021/09/buchecha-300x426.png",
+            "name": "Marcus Almeida",
+            "Iprofile" : "Marcus “Buchecha” Almeida is an Instructor at Evolve Mixed Martial Arts in Singapore on a seasonal basis. Known for his athleticism and technical mastery, he is the most decorated Brazilian Jiu-Jitsu World Champion in history, having won 13 BJJ World Championships.",
+            "Fprofile": "Most decorated competitor in Brazilian Jiu-Jitsu history, 13x BJJ world Champion, 2 x ADCC World Champion"
+          }
+        ],
+
+        "muayThai": [
+          {
+              "id": 1,
+              "photo": "https://evolve-mma.com/wp-content/uploads/2022/05/RODLEK-590A9622-e1651626612826-450x535.png",
+              "name": "Rodlek PK.Saenchai Muaythaigym",
+              "Iprofile" : "Rodlek PK Saenchaigym is an Instructor at Evolve MMA in Singapore. He is a WMC and Channel 7 Stadium Muay Thai World Champion. Fighting since the age of 10, Rodlek has faced Muay Thai legends including Nong-O Gaiyanghadao, Panpayak Jitmuangnon and Rodtang Jitmuangnon. He employs a fighting style that utilizes heavy punches and powerful low kicks.",
+              "Fprofile": "Multiple-time Muay Thai World Champion in two weight divisions Faced many Muay Thai legends including Rodtang Jitmuangnon and Panpayak Jitmuangnon Professional fight record of 177-43-5"
+          },
+          {
+            "id": 2,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/IMG_1155-Dejdamrong_Instructor.png",
+            "name": "Dejdamrong Sor Amnuaysirichok",
+            "Iprofile": "Dejdamrong is an Instructor at Evolve Mixed Martial Arts in Singapore. He is a ONE Strawweight World Champion and a 3x Lumpinee Muay Thai World Champion with a professional Muay Thai record of 282-65. Kru Rong is also a Thailand National Champion and Omnoi Stadium Champion. Dejdamrong is known as a technical fighter with quick hands and lightning feet. He has some of the most unique and creative striking combinations in the sport of Muay Thai. Dejdamrong is a certified Muay Thai instructor from Thailand who brings over 25 years of competitive experience to Evolve MMA.",
+            "Fprofile": "ONE Strawweight World Champion, Muay Thai World Champion, 3x Lumpinee World Champion, Thailand National Champion, Omnoi Champion, Shell Rimula Tournament Champion, Channel 3 Muay Thai Champion, Professional MMA fighter for ONE Championship"       
+          },
+          {
+            "id": 3,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/LeandroIssa-IP.png",
+            "name": "Leandro Thomas Issa da Silva",
+            "Iprofile" : "Leandro Thomas Issa da Silva is an Instructor at Evolve Mixed Martial Arts in Singapore. He is a Mundials World Champion in Brazilian Jiu-Jitsu with over 20 years of experience. He has won numerous regional and national titles in Brazil. He is currently a professional MMA fighter with a 17-7 record competing in the ONE Championship. Leandro is a 3rd degree Black Belt in Brazilian Jiu-Jitsu. He trained under Roberto “Gordo” Correa at Evolve Brazil before moving to Evolve Singapore to live and teach on a permanent basis. Leandro has also competed in MMA events such as the UFC, Art of War, Martial Combat FC, and Jungle Fight. Since arriving at Evolve MMA, Leandro has worked closely with the Evolve Muay Thai World Champions to improve his striking. Leandro’s favorite BJJ techniques include the armbar, rear naked choke, omoplata, and flying triangle choke.",
+            "Fprofile": "ONE Championship Fighter, Mundials World Champion in Brazilian Jiu-Jitsu, Winner of UFC Fight of the Night and UFC Submission of the Night awards, Martial Combat FC Featherweight Super Fight Champion, Professional MMA fighter, Favorite techniques: armbar, rear naked choke, omoplata, flying triangle choke"
+          },
+          {
+            "id": 4,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/Kru-Aa_Instructor.png",
+            "name": "Sagetdao Petpayathai",
+            "Iprofile" : "Sagetdao Petpayathai is a multiple-time Muay Thai World Champion, winning every major title in Muay Thai today. A big Muay Thai Superstar and Legend, he is a 4x Lumpinee World Champion, 1x Rajdamnern World Champion, 2x MAX Muay Thai World Champion, 1x WBC Muay Thai World Champion, 1x WPMF World Champion, etc. Sagetdao has beaten some of the biggest names in Muay Thai such as Saenchai PKSaenchaimuaythaigym, Petchboonchu FA Group, Singdam Kiatmuu9, Nong-O Gaiyanghadao, Anuwat Kaewsamrit, Nongbee Kiatyongyuth, and many others. He has a professional fight record of 162 wins and 62 losses.",
+            "Fprofile": "One of the greatest Muay Thai World Champions in history, Multiple-time Muay Thai World Champion, Defeated some of the biggest names in history, Held every major Muay Thai world title, Voted as one of the greatest fighters in the history of Muay Thai, Regarded as one of the most complete fighters in Muay Thai history"
+          },
+          {
+            "id": 5,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/Papa-Daorung_Instructor.png",
+            "name": "Daorung Sityodtong",
+            "Iprofile": "Daorung is an Instructor of Mixed Martial Arts in Singapore. He is a former Muay Thai Champion in Thailand. He brings over 48 years of professional Muay Thai experience as a professional fighter and as a trainer of Lumpinee Muay Thai World Champions. He has fought in over 100 professional Muay Thai fights. His knowledge of the fight game is unsurpassed. He has been at the Sityodtong Camp for most of his career as a fighter and elite trainer. Daorung is known for his strong low leg kicks and big right hand. Although he is ring-proven, Daorung is also a street fighter with hundreds of street fights to his name.",
+            "Fprofile": "Multiple-time Muay Thai World Champion"
+          },
+          {
+            "id": 6,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/IMG_1204-Nontachai-Sit-O.png",
+            "name": "Nontachai, Sit-O",
+            "Iprofile" : "Nontachai is an Instructor at Evolve Mixed Martial Arts in Singapore. He is a 3x Lumpinee Muay Thai World Champion, 1x Rajdamnern World Champion, and a Thailand Champion. As one of the top World Champions in Thailand, Nontachai has the distinction of fighting and beating many Muay Thai legends. In his elite career, he has won 7 championship title belts at the highest levels of Muay Thai in Thailand. The Thai media has labeled him as one of the most dominant fighters in Muay Thai due to his aggressive style.",
+            "Fprofile": "Nontachai has competed around the world including Finland, Italy, France, and Holland. According to the Evolve Muay Thai instructors, Nontachai is one of the best football players on the team. Nontachai names his toughest opponents as fellow instructors Namsaknoi and Orono."
+          },
+          {
+            "id": 7,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/Angela-Lee-updated-450x489.png",
+            "name": "Angela Lee",
+            "Iprofile" : "Angela Lee is an Instructor at Evolve Mixed Martial Arts in Singapore on a seasonal basis. Angela is the youngest MMA World Champion in history for any major global MMA organization.  She is the current ONE Atomweight World Champion, a 2-time Pankration World Champion and a Wrestling State Champion. She has competed in and won numerous World, National, and Regional martial arts competitions such as the World Pankration Athlima Federation World Championships and FILA World Championships. She also holds a 1st degree Black Belt in Taekwondo and TDS, and a Black Belt in Brazilian Jiu-Jitsu. A rising star of Singaporean-Korean descent, Angela come from a family of impressive martial artists trained by her father who holds Black Belts in three different martial arts disciplines including a 1st Degree Black Belt in Brazilian Jiu-Jitsu and a 6th Degree Hapdosool Master Black Belt, and her mother who holds a 5th Degree Hapdosool Master Black Belt.",
+            "Fprofile": "ONE Atomweight World Champion, Professional MMA fighter, 2x Pankration World Champion, Hawaii State Wrestling Champion, Black Belt in Taekwondo and TDS, Black Belt in Brazilian Jiu-Jitsu"
+          },
+          {
+            "id": 8,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2020/03/XJN-updated-450x675.png",
+            "name": "Xiong Jing Nan",
+            "Iprofile": "Xiong Jing Nan is an Instructor at Evolve Mixed Martial Arts in Singapore. She is the ONE Women’s Strawweight World Champion and China’s first-ever mixed martial arts World Champion. Before transitioning to mixed martial arts, she represented China in boxing internationally. Jing Nan is also a China Open BJJ Champion.",
+            "Fprofile": "ONE Women’s Strawweight World Champion, China’s first-ever mixed martial arts World Champion, Represented China in boxing on the international level, China Open BJJ Champion"
+          },
+          {
+            "id": 9,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/Christian-Lee-updated-450x487.png",
+            "name": "Christian Lee",
+            "Iprofile" : "Christian Lee is an Instructor at Evolve Mixed Martial Arts in Singapore on a seasonal basis. Christian is the ONE Lightweight World Champion and the youngest male World Champion in mixed martial arts history. He is also the ONE Lightweight World Grand Prix Champion. Christian is a multiple-time Junior Pankration World Champion with a Black Belt in Brazilian Jiu-Jitsu. He was voted ‘Most Outstanding Athlete’ at the 2013 FILA World Championship after winning five World Titles across the disciplines of Brazilian Jiu-Jitsu, Pankration, MMA, and Submission Grappling. He also holds a 1st degree Black Belt in Taekwondo and TDS. Christian holds the record for most finishes in ONE Championship history.",
+            "Fprofile": "ONE Lightweight World Champion, ONE Welterweight World Champion, ONE Lightweight World Grand Prix Champion, Youngest male World Champion in mixed martial,arts history, Multiple-time Junior Pankration World Champion, Black Belt in Brazilian Jiu-Jitsu"
+          },
+          {
+            "id": 10,
+            "photo": "https://evolve-mma.com/wp-content/uploads/2019/01/HIROKI-BELT-1-450x642.png",
+            "name": "Hiroki Akimoto",
+            "Iprofile": "Hiroki Akimoto is an Instructor at Evolve Mixed Martial Arts in Singapore. He is a WFKO Kyokushin Karate World Champion, WBC Muay Thai Japan Champion, Japan Kickboxing Federation Champion, and more. Known for his crisp technique and explosive power, he holds a Kyokushin Karate Black Belt.",
+            "Fprofile": "ONE Bantamweight Kickboxing World Champion, WFKO Kyokushin Karate World Champion, WBC Muay Thai Japan Champion, Japan Kickboxing Federation Champion,Kyokushin Karate Black Belt, Known for his crisp technique and powerful roundhouse kick, Started karate at the age of 8 to defend himself from bullies" 
+          }
+        ],
+
+        "MMA": [
+        {
+          "id": 1,
+          "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/Nong-O-FP-300x417.png",
+          "name": "Nong-O Gaiyanghadao",
+          "Iprofile": "Nong-O Gaiyanghadao, formerly known as Nong-O Sit Or, is considered to be one of the best pound for pound Muay Thai fighters in the world today. Nong-O is known for the incredible speed, power and precision behind all his strikes. Nong-O is a five-division multiple-time World Champion, 4x Lumpinee Muay Thai World Champion, 1x Rajadamnern Muay Thai World Champion, 2x Thailand National Champion, 3x Fighter of the Year, and more. He is also the current and first-ever ONE Bantamweight Muay Thai World Champion. He has fought against fellow legends like Saenchai PKSaenchaiMuayThaiGym, Singdam Kiatmuu9, Petchboonchu F.A.Group, Pakorn Sakyothin, Kongsak Sitboonmee, Sam-A Gaiyanghadao, Sagetdao Petpayathai and many more.",
+          "Fprofile": "Five division Muay Thai World Champion, 1x Rajadamnern Muay Thai World Champion, 2x Thailand National Champion, 3x Fighter of the Year, One of the best pound-for-pound fighters in Muay Thai history, Known for the incredible speed, precision, and power behind his strikes, Regarded as one of the most exciting Muay Thai fighters to ever step into the ring."
+
+        },
+        {
+          "id": 2,
+          "photo": "https://evolve-mma.com/wp-content/uploads/2022/12/COACH-ADAM-1-v2-450x642.png",
+          "name": "Adam Shahir Kayoom",
+          "Iprofile": "Adam is the Head Coach of the famed EVOLVE Fight Team at Evolve Mixed Martial Arts in Singapore. Adam started training in Judo and Tae Kwon Do as a child, but found BJJ when he was 18. He fell in love with it and moved to Brazil to train, eventually earning his black belt in BJJ under Master Ricardo Liborio. Adam is also a two-time World Champion in Muay Thai, winning the WPMF World Muay Thai World Championship twice. He is a true martial artist, studying multiple martial arts, including Silat, Kali, Aikido, and Judo. Adam established himself as an early pioneer of MMA and BJJ in Asia, and has fought in ONE Championship with his deep knowledge of different martial disciplines.",
+          "Fprofile": "2x WPMF World Muay Thai World Champion, Holds black belts in Tae Kwon Do, Shorinji Ryu Karate Do and BJJ First Malaysian to be conferred a black belt in BJJ. Trained in multiple martial arts, including Silat, Kali, Muay Thai, and Judo, Pioneer of MMA and BJJ in Asia"
+
+        },
+        {
+          "id": 3,
+          "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/Instructors-Chatri-Sitdyodtong.png",
+          "name":"Chatri Sityodtong",
+          "Iprofile" : "Chatri is an Instructor at Evolve Mixed Martial Arts in Singapore. Inducted into the Black Belt Hall of Fame in 2019, he has over 35 years of martial arts experience as a student, a fighter, a teacher, and a coach. Chatri grew up in Thailand and began his training in Muay Thai at the world-renowned Sityodtong Gym as a young boy. A long-time student of Kru Yodtong Senanan, he has fought professionally in Thailand for the Sityodtong Gym.",
+          "Fprofile": "2x WPMF World Muay Thai World Champion"
+
+        },
+        {
+          "id": 4,
+          "photo": "https://evolve-mma.com/wp-content/uploads/2018/11/DJ-Site-e1543425906412.png",
+          "name": "Demetrious Johnson",
+          "Iprofile" : "Demetrious Johnson is an Instructor at Evolve Mixed Martial Arts in Singapore on a seasonal basis. He is widely regarded as the greatest pound-for-pound mixed martial artist in history. As the UFC Flyweight World Champion, he broke the record for the most number of world title defenses (11) in the UFC. Known for his speed and explosive wrestling, he has landed the most takedowns in UFC flyweight history. Demetrious is a multiple-time Fighter of the Year Award winner.",
+          "Fprofile" : "Holds the record for the most UFC World Title defenses (11), Known as the greatest pound-for-pound mixed martial artist in history, Outside of martial arts, Demetrious is an avid video gamer, Known for his quick striking and elusive movement, Second fighter in UFC history to be awarded bonus payments in all four possible categories (Fight, Knockout, Performance, & Submission of the Night awards), 2017 ESPY Awards Fighter of the Year, 2013 Fox Sports Fighter of the Year"
+
+        },
+        {
+          "id": 5,
+          "photo": "Rafael Dos Anjos",
+          "Iprofile" : "Rafael is an Instructor at Evolve Mixed Martial Arts in Singapore on a seasonal basis. He has been a member of the Evolve Fight Team since 2009. Rafael is a UFC Lightweight World Champion with a professional record of 28-11. He has consistently been one of the top MMA fighters in his weight class around the world. In his quest to keep learning and evolving, he splits his time between Evolve MMA and California for training and fight camps. Prior to the UFC, Rafael was Champion of Fury Fighting Championship. Rafael is also well-versed in wrestling, boxing, and Muay Thai. He has also been a Mundials BJJ World Champion. Rafael is a Black Belt in Brazilian Jiu-Jitsu under Aldo Januario. He is also known for his very aggressive striking style and studies Muay Thai under the legendary Evolve Muay Thai Instructor Team.",
+          "Fprofile": "UFC Lightweight World Champion, Fury FC Champion, Brazil’s top lightweight fighter, Favorite techniques: the rear naked choke and armbar, Winner of UFC, Fight of the Night award, Winner of UFC Submission of the Night award"
+        },
+        {
+          "id": 6,
+          "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/ShinyaAoki-IP.png",
+          "name": "Shinya Aoki",
+          "Iprofile" : "Shinya is an Instructor at Evolve Mixed Martial Arts in Singapore on a seasonal basis. A Black Belt in both Brazilian Jiu-Jitsu and Judo, he is a 4x ONE Championship Lightweight World Champion. He was also the DREAM FC Lightweight World Champion. Shinya is widely regarded as the #1 pound-for-pound MMA fighter in Asia. He brings over 20 years of martial arts experience to Evolve MMA, competing at the highest levels in the world. He is currently the top BJJ Black Belt in Japan, and he has won every major BJJ tournament in Japan. For MMA, Shinya Aoki has won every major title in Japan including Shooto, DEEP, and DREAM. He holds a Black Belt in Brazilian Jiu-Jitsu under the legendary Yuki Nakai, the 1st BJJ Black Belt in Japan under Carlos Gracie Jr.",
+          "Fprofile": "ONE Championship Lightweight World Champion, DREAM Fighting Championship Lightweight World Champion, Asia’s top professional MMA fighter, One of the top on,rapplers in the world, Favorite techniques: the rear naked choke and leg locks, Known for his flying submissions, Considered to be one of the top lightweight MMA fighters in the world"
+        },
+        {
+          "id": 7,
+          "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/Angela-Lee-updated-450x489.png",
+          "name": "Angela Lee",
+          "Iprofile" : "Angela Lee is an Instructor at Evolve Mixed Martial Arts in Singapore on a seasonal basis. Angela is the youngest MMA World Champion in history for any major global MMA organization.  She is the current ONE Atomweight World Champion, a 2-time Pankration World Champion and a Wrestling State Champion. She has competed in and won numerous World, National, and Regional martial arts competitions such as the World Pankration Athlima Federation World Championships and FILA World Championships. She also holds a 1st degree Black Belt in Taekwondo and TDS, and a Black Belt in Brazilian Jiu-Jitsu. A rising star of Singaporean-Korean descent, Angela come from a family of impressive martial artists trained by her father who holds Black Belts in three different martial arts disciplines including a 1st Degree Black Belt in Brazilian Jiu-Jitsu and a 6th Degree Hapdosool Master Black Belt, and her mother who holds a 5th Degree Hapdosool Master Black Belt.",
+          "Fprofile": "ONE Atomweight World Champion, Professional MMA fighter, 2x Pankration World Champion, Hawaii State Wrestling Champion, Black Belt in Taekwondo and TDS, Black Belt in Brazilian Jiu-Jitsu"
+        },
+        {
+          "id": 8,
+          "photo": "https://evolve-mma.com/wp-content/uploads/2020/03/XJN-updated-450x675.png",
+          "name": "Xiong Jing Nan",
+          "Iprofile": "Xiong Jing Nan is an Instructor at Evolve Mixed Martial Arts in Singapore. She is the ONE Women’s Strawweight World Champion and China’s first-ever mixed martial arts World Champion. Before transitioning to mixed martial arts, she represented China in boxing internationally. Jing Nan is also a China Open BJJ Champion.",
+          "Fprofile": "ONE Women’s Strawweight World Champion, China’s first-ever mixed martial arts World Champion, Represented China in boxing on the international level, China Open BJJ Champion"
+        },
+        {
+          "id": 9,
+          "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/Christian-Lee-updated-450x487.png",
+          "name": "Christian Lee",
+          "Iprofile" : "Christian Lee is an Instructor at Evolve Mixed Martial Arts in Singapore on a seasonal basis. Christian is the ONE Lightweight World Champion and the youngest male World Champion in mixed martial arts history. He is also the ONE Lightweight World Grand Prix Champion. Christian is a multiple-time Junior Pankration World Champion with a Black Belt in Brazilian Jiu-Jitsu. He was voted ‘Most Outstanding Athlete’ at the 2013 FILA World Championship after winning five World Titles across the disciplines of Brazilian Jiu-Jitsu, Pankration, MMA, and Submission Grappling. He also holds a 1st degree Black Belt in Taekwondo and TDS. Christian holds the record for most finishes in ONE Championship history.",
+          "Fprofile": "ONE Lightweight World Champion, ONE Welterweight World Champion, ONE Lightweight World Grand Prix Champion, Youngest male World Champion in mixed martial,arts history, Multiple-time Junior Pankration World Champion, Black Belt in Brazilian Jiu-Jitsu"
+        },
+        {
+          "id": 10,
+          "photo": "https://evolve-mma.com/wp-content/uploads/2019/01/HIROKI-BELT-1-450x642.png",
+          "name": "Hiroki Akimoto",
+          "Iprofile": "Hiroki Akimoto is an Instructor at Evolve Mixed Martial Arts in Singapore. He is a WFKO Kyokushin Karate World Champion, WBC Muay Thai Japan Champion, Japan Kickboxing Federation Champion, and more. Known for his crisp technique and explosive power, he holds a Kyokushin Karate Black Belt.",
+          "Fprofile": "ONE Bantamweight Kickboxing World Champion, WFKO Kyokushin Karate World Champion, WBC Muay Thai Japan Champion, Japan Kickboxing Federation Champion,Kyokushin Karate Black Belt, Known for his crisp technique and powerful roundhouse kick, Started karate at the age of 8 to defend himself from bullies" 
+        }      
+      ],
+
+      "classes": [
+        {
+          "id": 1,
+          "photo":"https://i.pinimg.com/originals/17/4e/a7/174ea7a9c4f3bb11c680d2cf2384f9e8.gif",
+          "name": "Muay Thai ",
+          "description": "Muay Thai (Thai boxing) is a martial art and combat sport, which dates back to the 13th century. Known as the “science of 8 limbs, it incorporates strikes using the fists, knees, shins and elbow as well as an element of grappling. With its roots in Thailand’s military, It is now trained across the world and numerous organisations broadcast Muay Thai ring fighting events to millions of fans globally. It’s also a key component of MMA styles such as the fighting you would see in UFC or Bellator bouts. This guide will tell you everything you need to know about Muay Thai, from the strikes used, training methods, famous fighters, history and modern day developments."
+        },
+        {
+          "id": 2,
+          "photo": "https://2.bp.blogspot.com/-fqYiws0zDfE/UFsVo4RajoI/AAAAAAAAARY/4NKg6QHnIRM/s1600/VIDEO+ANSWER+FOR+GRAPPLERS+GUIDE+-+BERIMBOLO+(NO-GI)(360p_VP8-Vorbis)_xvid.gif",
+          "name": "Mixed Martial Arts", 
+          "description": "Mixed martial arts originated as mixed combat sports in Ancient China and Ancient Greece. The Chinese combat sport of Leitai is one of the first mixed combat sports and utilized elements of different kung fu styles, boxing and wrestling. In Ancient Greece, such an example can be found in the art of pankration, a very specific martial art that combined boxing – which was very popular in Ancient Greece – and wrestling – which probably originated in Mesopotamia or Ancient Egypt. Pankration was extremely popular (even the most popular sport, according to some historian) in Ancient Greece and there is vague evidence that similar mixed combat sports were practiced in Ancient Japan, Egypt and India. "
+        },
+        {
+          "id": 3,
+          "photo": "https://i.pinimg.com/originals/94/b9/8c/94b98c9d41c72a42d8e208a80e042c04.gif", 
+          "name": "Brazillian Jiu Jitsu",
+          "description": "Brazilian Jiu-Jitsu (BJJ) is a martial art and combat sport that originated in Brazil in the early 20th century. It focuses on grappling and ground fighting techniques, emphasizing the use of leverage and technique over strength and size. BJJ techniques involve taking an opponent down to the ground and controlling them through various positions, such as mount, guard, and side control, with the goal of submitting them through joint locks or chokes. BJJ also includes techniques for defending against strikes, throws, and other attacks. BJJ is practiced by people of all ages and skill levels, and is popular among both men and women. It is widely used in mixed martial arts (MMA) competition, and is also used by law enforcement and military personnel as a form of self-defense training. BJJ has a strong focus on discipline, respect, and personal development, and is often described as a way of life by its practitioners."
+        },
+        {
+          "id": 4,
+          "photo": "https://i.pinimg.com/originals/68/b3/81/68b381b89cab3c9b838848393a9e262d.gif",
+          "name": "Bpxing",
+          "description": "Boxing is a combat sport in which two fighters engage in a contest of strength, speed, reflexes, endurance, and skill by throwing punches at each other while wearing padded gloves. The sport has been around for thousands of years, with depictions of boxing found in ancient civilizations such as Greece and Rome. In modern boxing, fighters compete in a square ring and are divided into weight classes to ensure fair matchups. The goal of the sport is to score more points than the opponent by landing punches on their upper body and head while avoiding being hit. Boxers typically use a variety of techniques, such as jabs, hooks, crosses, uppercuts, and footwork, to maneuver around the ring and outmaneuver their opponent. The sport requires a high level of physical fitness and mental toughness, as well as discipline and training."
+        }
+      ]
+}
+
         
         
         
@@ -463,7 +958,7 @@
 
 
 
-}     
+ 
 
       
 
