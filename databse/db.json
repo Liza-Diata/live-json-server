@@ -947,16 +947,9 @@
           "name": "Bpxing",
           "description": "Boxing is a combat sport in which two fighters engage in a contest of strength, speed, reflexes, endurance, and skill by throwing punches at each other while wearing padded gloves. The sport has been around for thousands of years, with depictions of boxing found in ancient civilizations such as Greece and Rome. In modern boxing, fighters compete in a square ring and are divided into weight classes to ensure fair matchups. The goal of the sport is to score more points than the opponent by landing punches on their upper body and head while avoiding being hit. Boxers typically use a variety of techniques, such as jabs, hooks, crosses, uppercuts, and footwork, to maneuver around the ring and outmaneuver their opponent. The sport requires a high level of physical fitness and mental toughness, as well as discipline and training."
         }
-      ],
-
-      "sidenav": [
-        {
-          "key": "dashboard",
-          "label": "Dashboard",
-          "path": "/sideNav",
-          "icon": <HiOutlineViewGrid />
-        }
       ]
+
+     
 }
 
         
