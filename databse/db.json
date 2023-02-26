@@ -927,25 +927,34 @@
           "id": 1,
           "photo":"https://i.pinimg.com/originals/17/4e/a7/174ea7a9c4f3bb11c680d2cf2384f9e8.gif",
           "name": "Muay Thai ",
-          "description": "Muay Thai (Thai boxing) is a martial art and combat sport, which dates back to the 13th century. Known as the “science of 8 limbs, it incorporates strikes using the fists, knees, shins and elbow as well as an element of grappling. With its roots in Thailand’s military, It is now trained across the world and numerous organisations broadcast Muay Thai ring fighting events to millions of fans globally. It’s also a key component of MMA styles such as the fighting you would see in UFC or Bellator bouts. This guide will tell you everything you need to know about Muay Thai, from the strikes used, training methods, famous fighters, history and modern day developments."
+          "description1": "Muay Thai (Thai boxing) is a martial art and combat sport, which dates back to the 13th century. Known as the “science of 8 limbs, it incorporates strikes using the fists, knees, shins and elbow as well as an element of grappling.",
+          "description2": "With its roots in Thailand’s military, It is now trained across the world and numerous organisations broadcast Muay Thai ring fighting events to millions of fans globally. It’s also a key component of MMA styles such as the fighting you would see in UFC or Bellator bouts.",
+          "description3": "This guide will tell you everything you need to know about Muay Thai, from the strikes used, training methods, famous fighters, history and modern day developments."         
+          
         },
         {
           "id": 2,
           "photo": "https://2.bp.blogspot.com/-fqYiws0zDfE/UFsVo4RajoI/AAAAAAAAARY/4NKg6QHnIRM/s1600/VIDEO+ANSWER+FOR+GRAPPLERS+GUIDE+-+BERIMBOLO+(NO-GI)(360p_VP8-Vorbis)_xvid.gif",
           "name": "Mixed Martial Arts", 
-          "description": "Mixed martial arts originated as mixed combat sports in Ancient China and Ancient Greece. The Chinese combat sport of Leitai is one of the first mixed combat sports and utilized elements of different kung fu styles, boxing and wrestling. In Ancient Greece, such an example can be found in the art of pankration, a very specific martial art that combined boxing – which was very popular in Ancient Greece – and wrestling – which probably originated in Mesopotamia or Ancient Egypt. Pankration was extremely popular (even the most popular sport, according to some historian) in Ancient Greece and there is vague evidence that similar mixed combat sports were practiced in Ancient Japan, Egypt and India. "
-        },
+          "description1": "Mixed martial arts originated as mixed combat sports in Ancient China and Ancient Greece. The Chinese combat sport of Leitai is one of the first mixed combat sports and utilized elements of different kung fu styles, boxing and wrestling.",
+          "description2": " In Ancient Greece, such an example can be found in the art of pankration, a very specific martial art that combined boxing – which was very popular in Ancient Greece – and wrestling – which probably originated in Mesopotamia or Ancient Egypt.",
+          "description3": " Pankration was extremely popular (even the most popular sport, according to some historian) in Ancient Greece and there is vague evidence that similar mixed combat sports were practiced in Ancient Japan, Egypt and India."
+       },
         {
           "id": 3,
           "photo": "https://i.pinimg.com/originals/94/b9/8c/94b98c9d41c72a42d8e208a80e042c04.gif", 
           "name": "Brazillian Jiu Jitsu",
-          "description": "Brazilian Jiu-Jitsu (BJJ) is a martial art and combat sport that originated in Brazil in the early 20th century. It focuses on grappling and ground fighting techniques, emphasizing the use of leverage and technique over strength and size. BJJ techniques involve taking an opponent down to the ground and controlling them through various positions, such as mount, guard, and side control, with the goal of submitting them through joint locks or chokes. BJJ also includes techniques for defending against strikes, throws, and other attacks. BJJ is practiced by people of all ages and skill levels, and is popular among both men and women. It is widely used in mixed martial arts (MMA) competition, and is also used by law enforcement and military personnel as a form of self-defense training. BJJ has a strong focus on discipline, respect, and personal development, and is often described as a way of life by its practitioners."
-        },
+          "description1": "Brazilian Jiu-Jitsu (BJJ) is a martial art and combat sport that originated in Brazil in the early 20th century. It focuses on grappling and ground fighting techniques, emphasizing the use of leverage and technique over strength and size.",
+          "description2": " BJJ techniques involve taking an opponent down to the ground and controlling them through various positions, such as mount, guard, and side control, with the goal of submitting them through joint locks or chokes. BJJ also includes techniques for defending against strikes, throws, and other attacks. BJJ is practiced by people of all ages and skill levels, and is popular among both men and women.",
+          "description3": "  It is widely used in mixed martial arts (MMA) competition, and is also used by law enforcement and military personnel as a form of self-defense training. BJJ has a strong focus on discipline, respect, and personal development, and is often described as a way of life by its practitioners."
+         },
         {
           "id": 4,
           "photo": "https://i.pinimg.com/originals/68/b3/81/68b381b89cab3c9b838848393a9e262d.gif",
           "name": "Bpxing",
-          "description": "Boxing is a combat sport in which two fighters engage in a contest of strength, speed, reflexes, endurance, and skill by throwing punches at each other while wearing padded gloves. The sport has been around for thousands of years, with depictions of boxing found in ancient civilizations such as Greece and Rome. In modern boxing, fighters compete in a square ring and are divided into weight classes to ensure fair matchups. The goal of the sport is to score more points than the opponent by landing punches on their upper body and head while avoiding being hit. Boxers typically use a variety of techniques, such as jabs, hooks, crosses, uppercuts, and footwork, to maneuver around the ring and outmaneuver their opponent. The sport requires a high level of physical fitness and mental toughness, as well as discipline and training."
+          "description1": "Boxing is a combat sport in which two fighters engage in a contest of strength, speed, reflexes, endurance, and skill by throwing punches at each other while wearing padded gloves. The sport has been around for thousands of years, with depictions of boxing found in ancient civilizations such as Greece and Rome.",
+          "description2": "In modern boxing, fighters compete in a square ring and are divided into weight classes to ensure fair matchups. The goal of the sport is to score more points than the opponent by landing punches on their upper body and head while avoiding being hit. ",
+          "description3":" Boxers typically use a variety of techniques, such as jabs, hooks, crosses, uppercuts, and footwork, to maneuver around the ring and outmaneuver their opponent. The sport requires a high level of physical fitness and mental toughness, as well as discipline and training."
         }
       ]
 
