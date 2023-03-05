@@ -881,9 +881,10 @@
         },
         {
           "id": 5,
-          "photo": "Rafael Dos Anjos",
+          "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/Rafael-Dos-Anjos-IP-2.png",
+          "name": "Rafael Dos Anjos",
           "Iprofile" : "Rafael is an Instructor at Evolve Mixed Martial Arts in Singapore on a seasonal basis. He has been a member of the Evolve Fight Team since 2009. Rafael is a UFC Lightweight World Champion with a professional record of 28-11. He has consistently been one of the top MMA fighters in his weight class around the world. In his quest to keep learning and evolving, he splits his time between Evolve MMA and California for training and fight camps. Prior to the UFC, Rafael was Champion of Fury Fighting Championship. Rafael is also well-versed in wrestling, boxing, and Muay Thai. He has also been a Mundials BJJ World Champion. Rafael is a Black Belt in Brazilian Jiu-Jitsu under Aldo Januario. He is also known for his very aggressive striking style and studies Muay Thai under the legendary Evolve Muay Thai Instructor Team.",
-          "Fprofile": "UFC Lightweight World Champion, Fury FC Champion, Brazil’s top lightweight fighter, Favorite techniques: the rear naked choke and armbar, Winner of UFC, Fight of the Night award, Winner of UFC Submission of the Night award"
+          "Fprofile" : "UFC Lightweight World Champion, Fury FC Champion, Brazil’s top lightweight fighter, Favorite techniques: the rear naked choke and armbar, Winner of UFC, Fight of the Night award, Winner of UFC Submission of the Night award"
         },
         {
           "id": 6,
@@ -951,7 +952,7 @@
         {
           "id": 4,
           "photo": "https://i.pinimg.com/originals/68/b3/81/68b381b89cab3c9b838848393a9e262d.gif",
-          "name": "Bpxing",
+          "name": "Boxing",
           "description1": "Boxing is a combat sport in which two fighters engage in a contest of strength, speed, reflexes, endurance, and skill by throwing punches at each other while wearing padded gloves. The sport has been around for thousands of years, with depictions of boxing found in ancient civilizations such as Greece and Rome.",
           "description2": "In modern boxing, fighters compete in a square ring and are divided into weight classes to ensure fair matchups. The goal of the sport is to score more points than the opponent by landing punches on their upper body and head while avoiding being hit. ",
           "description3":" Boxers typically use a variety of techniques, such as jabs, hooks, crosses, uppercuts, and footwork, to maneuver around the ring and outmaneuver their opponent. The sport requires a high level of physical fitness and mental toughness, as well as discipline and training."
