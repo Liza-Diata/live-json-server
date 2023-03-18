@@ -1,418 +1,5 @@
 {
-    "MartialArts": [
-    {
-     "id": 1,
-     "name": "taekwondo",
-     "photo": "https://media.tenor.com/NIruhEh5UZsAAAAC/taekwondo-kick.gif",
-     "description": "Taekwondo is a Korean martial art founded by Choi Hong Hi and a couple of army officials and martial artists. It was developed during and after the second world war to solidify the Korean martial arts scene.",
-     "trainer": "Logan Cale",
-     "schedule": "Monday" 
-    },
-    {	
-     "id": 2,
-     "name": "combat sambo",
-     "photo": "https://thumbs.gfycat.com/JoyfulFeminineAmphiuma-size_restricted.gif", 
-     "description": "The next martial art on today’s list is Sambo. Sambo is a Russian martial art, developed around the 1920s in the USSR to improve the Russian military’s hand-to-hand combat skills. Much akin to modern MMA, it features a combination of strikes, kicks, clinches, throws, grappling, wrestling, and more.",
-     "trainer": "Blake Kyleigh",
-     "schedule": "Monday" 
-    },
-    {	
-     "id": 3,
-     "name": "karate",
-     "photo": "https://media.tenor.com/M0TWqB3UF_kAAAAC/kyokushin-kyokushin-karate.gif",
-     "description":	"The next martial art on our list today is the world-famous Karate. Contrary to popular belief it isn’t Japanese, but rather Okinawan. Though it is a part of Japan today, Okinawa was actually an independent country and is the home for most of what we now know of as Japanese martial arts.",
-     "trainer": "Chuckie Madison",
-     "schedule": "Friday"
-    },
-    {
-     "id": 4,
-     "name": "Judo",
-     "photo": "https://thumbs.gfycat.com/GoldenDentalAzurevasesponge-max-1mb.gif",
-     "descritpion": "The next martial art on the list is Judo. It is one of the most popular martial arts in the world and been known to be the martial art of choice for a wide variety of people, whether they are MMA fighters or even the president of Russia.",
-     "trainer": "Billy Vernon",
-     "schedule": "Tuesday"
-    },
-    {
-     "id": 5,
-     "name": "boxing",
-     "photo": "https://media2.giphy.com/media/DF316u4Vfnfz8uFhaz/200w.gif?cid=6c09b952r23rqfgzi46oa424c1qc49c5mdybwig0wgse2401&rid=200w.gif&ct=g",
-     "description": "Boxing deserves a high placement in any self-defense article and is often not given its due respect. Western Boxing has origins that can be traced back thousands and thousands of years to ancient civilizations, and there was never a specific moment in time when boxing became mainstream.",
-     "trainer": "Greg Colt",
-     "schedule": "Tuesday"
-    },
-    {
-     "id": 6,
-     "name": "wrestling",
-     "photo": "https://media.tenor.com/VKm8uILj4qwAAAAM/wrestling-sushil-kumar.gif",
-     "description": "Western wrestling, often referred to as Greco-Roman Wrestling or French Wrestling is a sport that dates back to perhaps more than 15000 years ago. It is a form of combat that has been depicted in cave drawings, suggesting that it might be as old as humans themselves.",
-     "trainer": "Edmund Reilly",
-     "schedule": "Tuesday"
-    },
-    {
-     "id": 7,
-     "name": "Muay Thai (and Kickboxing)",
-     "photo": "https://media1.giphy.com/media/ftBd1O7xHXZHIAF2hh/giphy.gif",
-     "description": "The next martial art/s on the list is Muay Thai. Though there are some relatively significant differences, I consider Kickboxing to be as effective as Muay Thai and definitely in the same league, which is why all that I will write in this section represents both of these incredible martial arts.",
-     "trainer": "John Sinclair",
-     "schedule": "Wednesday"
-    },
-    {
-     "id": 8,
-     "name": "Jiu-Jitsu",
-     "photo": "https://media1.giphy.com/media/Vdu4ZSqcCw0AoQ8v7F/giphy.gif",
-     "description": "At the 4th place on today’s list, we have the favorite martial arts of some of the most popular commentators and practitioners in the world of martial arts and combat sports like Jocko WIllink and Joe Rogan. Jiu-Jitsu is arguably the martial art with the steepest rise to fame, seeing as some of the main founders have just passed away a couple of decades ago.",
-     "trainer": "Aston Art",
-     "schedule": "Wednesday"
-    },
-    {
-     "id": 9,
-     "name": "Krav Maga",
-     "photo": "https://media2.giphy.com/media/WSyET2vy391GhXQNsH/giphy.gif",
-     "description": "The bronze-medal goes to Krav Maga, a military combat system designed to prepare people in the toughest of places to be able to neutralize threats as quickly and as efficiently as possible. It is also the fighting system taught to the Israeli military, which is partly what gives it its good reputation.",
-     "trainer": "Herman Joey",
-     "schedule": "Thursday"
-    },
-    {
-     "id": 10,
-     "name": "Mixed Martial Arts",
-     "photo": "https://media1.giphy.com/media/Z9ztqZwZgII6djSlKf/200w.gif?cid=6c09b952n9x98t4nepgtgsnv5vy9hq0ztkb9nx1bi8e770at&rid=200w.gif&ct=g",
-     "descripton": "MMA, or mixed martial arts, isn’t a singular entity. It is basically a process, within which the given individual tries their best to become the best all-around fighter. This means placing a large emphasis on striking, wrestling, grappling, and more; virtually all the areas of fighting that humans have come up with to date.",
-     "trainer": "Digby Johnnie",
-     "schedule": "Thursday"
-    },
-    {
-     "id": 11,
-     "name": "Krav Maga + MMA",
-     "photo": "https://i.gifer.com/1Phr.gif",
-     "description": "What could possibly come after MMA, you ask? Well, combining it with Krav Maga. Though an MMA fighter will likely beat any single-discipline fighter out there, a fighter who also knows how to use illegal moves and is also an MMA fighter will be an absolute beast.",
-     "trainer": "Sawyer Alan",
-     "schedule": "Friday"
-     }
-    ],   
     
-    "Instructors": [
-        {
-        "id": 1,
-        "name": "Angela Lee",
-        "photo":"https://evolve-mma.com/wp-content/uploads/2015/11/Angela-Lee-updated-450x489.png" , 
-        "description": "A rising star of Singaporean-Korean descent, Angela come from a family of impressive martial artists trained by her father who holds Black Belts in three different martial arts disciplines including a 1st Degree Black Belt in Brazilian Jiu-Jitsu and a 6th Degree Hapdosool Master Black Belt, and her mother who holds a 5th Degree Hapdosool Master Black Belt.",
-	      "credentials": "She is the current ONE Atomweight World Champion, a 2-time Pankration World Champion and a Wrestling State Champion. She has competed in and won numerous World, National, and Regional martial arts competitions such as the World Pankration Athlima Federation World Championships and FILA World Championships. She also holds a 1st degree Black Belt in Taekwondo and TDS, and a Black Belt in Brazilian Jiu-Jitsu.",
-        "specialties": "Black Belt in Brazilian Jiu-Jitsu.",
-        "schedule": "Monday"
-},
-{
-        "id": 2,
-        "name": "Shinya Aoki",
-        "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/ShinyaAoki-IP.png",
-        "description": "Shinya is an Instructor at Evolve Mixed Martial Arts in Singapore on a seasonal basis. A Black Belt in both Brazilian Jiu-Jitsu and Judo, he is a 4x ONE Championship Lightweight World Champion. He was also the DREAM FC Lightweight World Champion. Shinya is widely regarded as the #1 pound-for-pound MMA fighter in Asia. He brings over 20 years of martial arts experience to Evolve MMA, competing at the highest levels in the world. He is currently the top BJJ Black Belt in Japan, and he has won every major BJJ tournament in Japan. For MMA, Shinya Aoki has won every major title in Japan including Shooto, DEEP, and DREAM.",
-        "credentials": "He holds a Black Belt in Brazilian Jiu-Jitsu under the legendary Yuki Nakai, the 1st BJJ Black Belt in Japan under Carlos Gracie Jr.",
-        "specialties": "Jing Nan holds a Purple Belt in Brazilian Jiu-Jitsu.",
-        "schedule": "Monday / Saturday"
-        },
-        {
-        "id": 3,
-        "name": "Xiong Jing Nan",
-        "photo": "https://www.master-sh-yu.com/wp-content/uploads/2021/02/Instructor.MrEric-scaled-e1614555702978.jpg",
-        "description": "Xiong Jing Nan is an Instructor at Evolve Mixed Martial Arts in Singapore. She is the ONE Women’s Strawweight World Champion and China’s first-ever mixed martial arts World Champion. Before transitioning to mixed martial arts, she represented China in boxing internationally. Jing Nan is also a China Open BJJ Champion.",
-        "credentials": "Superfight Record:2-0, Fight Con (2017), Arte Suave (2017)",
-        "specialties": "Karate and Judo ",
-        "schedule": "Wednesday / Sunday"
-        },
-        {
-          "id": 4,
-          "name": "Rafael Dos Anjos",
-          "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/Rafael-Dos-Anjos-IP-2.png",
-          "description": "",
-          "credentials": "Professor, Brazilian Jiu-Jitsu and MMA World Champion",
-          "specialties": "Wrestling, Boxing, Muay Thai",
-          "schedule": "Wednesday / Sunday"
-          },
-          {
-            "id": 5,
-            "name": "Demetrious Johnson",
-            "photo": "https://evolve-mma.com/wp-content/uploads/2018/11/DJ-Site-e1543425906412.png",
-            "description": "Demetrious Johnson is an Instructor at Evolve Mixed Martial Arts in Singapore on a seasonal basis. He is widely regarded as the greatest pound-for-pound mixed martial artist in history. As the UFC Flyweight World Champion, he broke the record for the most number of world title defenses (11) in the UFC. Known for his speed and explosive wrestling, he has landed the most takedowns in UFC flyweight history. Demetrious is a multiple-time Fighter of the Year Award winner.",
-            "credentials": "Demetrious currently competes in ONE Championship and is a member of the prestigious Evolve Fight Team. Demetrious is the current ONE Flyweight World Champion.",
-            "specialties": " Brazilian Jiu-Jitsu, MMA",
-            "schedule": "Wednesday / Sunday"
-            },
-            {
-              "id": 6,
-              "name": "Nong-O Gaiyanghadao",
-              "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/Nong-O-IP.png",
-              "description": "Nong-O Gaiyanghadao, formerly known as Nong-O Sit Or, is considered to be one of the best pound for pound Muay Thai fighters in the world today. Nong-O is known for the incredible speed, power and precision behind all his strikes.",
-              "credentials": "Nong-O is a five-division multiple-time World Champion, 4x Lumpinee Muay Thai World Champion, 1x Rajadamnern Muay Thai World Champion, 2x Thailand National Champion, 3x Fighter of the Year, and more. He is also the current and first-ever ONE Bantamweight Muay Thai World Champion.",
-              "specialties": "Muay Thai",
-              "schedule": "Wednesday / Sunday"
-              },
-              {
-                "id": 7,
-                "name": "Adam Shahir Kayoom",
-                "photo": "https://evolve-mma.com/wp-content/uploads/2022/12/COACH-ADAM-1-v2-450x642.png",
-                "description": "Adam is the Head Coach of the famed EVOLVE Fight Team at Evolve Mixed Martial Arts in Singapore. Adam started training in Judo and Tae Kwon Do as a child, but found BJJ when he was 18. He fell in love with it and moved to Brazil to train, eventually earning his black belt in BJJ under Master Ricardo Liborio.",
-                "credentials": "Adam is also a two-time World Champion in Muay Thai, winning the WPMF World Muay Thai World Championship twice. He is a true martial artist, studying multiple martial arts, including Silat, Kali, Aikido, and Judo. Adam established himself as an early pioneer of MMA and BJJ in Asia, and has fought in ONE Championship with his deep knowledge of different martial disciplines.",
-                "specialties": "Muay Thai, Brazilian Jiu-Jitsu, MMA",
-                "schedule": "Wednesday / Sunday"
-              },
-              {
-                "id": 8,
-                "name": "Chatri Sityodtong",
-                "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/Instructors-Chatri-Sitdyodtong.png",
-                "description": "Chatri is an Instructor at Evolve Mixed Martial Arts in Singapore. Inducted into the Black Belt Hall of Fame in 2019, he has over 35 years of martial arts experience as a student, a fighter, a teacher, and a coach. Chatri grew up in Thailand and began his training in Muay Thai at the world-renowned Sityodtong Gym as a young boy. A long-time student of Kru Yodtong Senanan, he has fought professionally in Thailand for the Sityodtong Gym.",
-                "credentials": "Chatri is a certified senior Muay Thai instructor under the legendary Kru Yodtong Senanan of the world-renowned Sityodtong Gym in Thailand. He is also a certified Muay Thai instructor by the World Muay Thai Council (WMC).",
-                "specialties": "Muay Thai",
-                "schedule": "Wednesday / Sunday"
-              },
-              {
-                "id": 9,
-                "name": "Jovinus Ong",
-                "photo": "https://evolve-mma.com/wp-content/uploads/2022/09/JOVINUS-1-450x642.png",
-                "description": "Jovinus is a WarriorFit Instructor at Evolve Mixed Martial Arts in Singapore. Jovinus holds the National Council on Strength & Fitness (NSCF) Personal Training Certificate and a degree in Sport and Exercise Sciences from Edinburgh Napier University. He has over 2 years of experience as a strength and conditioning coach. He is an experienced fitness instructor and is interested in helping others reach their physical fitness goals and to help them get there with proper training and guidance.",
-                "credentials": "Chatri is a certified senior Muay Thai instructor under the legendary Kru Yodtong Senanan of the world-renowned Sityodtong Gym in Thailand. He is also a certified Muay Thai instructor by the World Muay Thai Council (WMC).",
-                "specialties": "Muay Thai, Mixed Martial Arts",
-                "schedule": "Wednesday / Sunday"
-              },
-              {
-                "id": 10,
-                "name": "Mikey Musumeci",
-                "photo": "https://evolve-mma.com/wp-content/uploads/2022/04/MIKEY-1-450x642.png",
-                "description": "Mikey Musumeci is an Instructor at Evolve Mixed Martial Arts in Singapore on a seasonal basis. He is a highly decorated Brazilian Jiu-Jitsu martial artist, having won five times World Championships as a colored belt. He holds the unique distinction of being the first American to win the IBJJF World Championship in the male black belt division twice. He has a modern style of grappling, utilizing the berimbolo and crab ride positions heavily.",
-                "credentials": "Multiple-time IBJJF World Champion.",
-                "specialties": "Brazilian Jiu-Jitsu",
-                "schedule": "Wednesday / Sunday"
-              }
-    ],
-
-
-  
-    
-    "Yoga":[
-      { "id": 1,
-        "name": "Butterfly Pose (Baddha Konasana)", 
-        "photo": "https://www.goodnet.org/photos/620x0/30221_hd.jpg",   
-        "description": "Sometimes also called the cobbler’s pose, this simple stretch involves sitting with legs spread like the wings of the butterfly. Wrap the hands around the feet and straighten the back to feel a stretch in the arms, back, and shoulders.",
-        "benefits": "stimulating blood circulation to relieving symptoms of menstruation and menopause."
-      },
-      {
-         "id": "2",
-         "name": "Mountain Pose (Tadasana): Improves Posture",
-         "photo": "https://www.goodnet.org/photos/620x0/30220_hd.jpg",
-         "description": "Mountain pose might seem too simple to have any real benefits. After all, all you have to do is stand there, right? Actually, tadasana can have a very empowering effect. You can achieve the pose by standing tall with legs slightly apart. Hands can hang alongside the body or lift up straight above the head. To get the full effect of the pose, engage the belly and keep thigh muscles firm.",
-         "benefits": [
-           "make you feel stronger",
-           "improve posture",
-           "increase blood circulation",
-           "reduce tension"
-         ]
-       },
-       {
-        "id": 3,
-        "name": "Yoga Squat Pose (Malasana)",
-        "photo": "https://www.goodnet.org/photos/620x0/30215_hd.jpg",
-        "description":"If you’ve ever been to East Asia, you may recognize what’s known as the “Asian squat”. Yoga also incorporates this pose which has loads of health benefits. You can enter malasana by standing with feet parallel, slightly wider than the hips. Then bend knees and slowly lower down the pelvis until the hips go lower than the knees. Keep the back straight and take arms in front in a prayer position.",
-        "benefits":[
-       "Strengthens the Lower Back",
-       "Stretch the groin",
-       "Tones the belly",
-       "releases tension in the hips and knees."
-       ]
-       },
-       {
-        "id": 3,
-        "name": "Cat Cow Pose (Marjaiasana/Bitilasana)",
-        "photo": "https://www.goodnet.org/photos/620x0/30216_hd.jpg",
-        "description":"Start by positioning the body on all fours on the mat with knees aligned underneath the hips and hands below the shoulders. Next, arch the back with the head and tailbone lifted upwards and chest open. On the next breath, flow into the cow pose by arching the back upwards and lowering the head. ",
-        "benefits":[      
-           "improve posture and balance",
-           "strengthen and stretch the neck, arms, abdomen, and back"
-       ]
-       },
-       {
-      "id": 3,
-        "name": "Downward Facing Dog (Adho Mukha Svanasana)",
-        "photo": "https://www.goodnet.org/photos/620x0/30217_hd.jpg",
-        "description":"Quite possibly the most well-known of all the yoga poses, downward facing dog gives a full-body stretch and awakening. Enter the pose from the plank position with palms spread. Next, lift the hips and lengthen the tailbone. Keep arms and legs firm with the head between the upper arms",
-        "benefits": [
-            "A Full-Body Rejuvenation",
-            "benefits the entire body by building stronger hands and wrists and relieving lower back pain",
-            "helps reduce symptoms of menstruation and menopause",
-            "helps prevent osteoporosis"
-        ]
-      },
-      {
-        "id": 4,
-        "name": "Child’s Pose (Balasana): Stretches the Lower Back",
-        "photo": "https://www.goodnet.org/photos/620x0/30218_hd.jpg",
-        "description":"During a tough yoga class, laying back into child’s pose can feel like a huge relief. Even as an easy pose, balasana comes packed with tons of health benefits. Enter the pose by extending the arms forward, spreading the knees apart while keeping the toes touching, and lowering the torso between the thighs.",
-        "benefits":[
-            "total relaxation",
-             "stretches the lower back and shoulders",
-            "opens the hips",
-            "helps prevent osteoporosis",
-            "helps fight insomnia."
-        ]
-      },
-      {
-        "id": 5,
-        "name": "Corpse Pose (Shavasana): Relaxes and Relieves Stress",
-        "photo": "https://www.goodnet.org/photos/620x0/30222_hd.jpg",
-        "description":"After a difficult yoga class, corpse pose can feel like a huge relief. It might look more like naptime, but actually, shavasana provides the ideal time to clear the mind and meditate. To enter the pose, lie flat on the back with hands by the side and palms facing up.",
-        "benefits":"relaxes the entire body and relieves stress and fatigue."
-      },
-      {
-        "id": 6,
-        "name": "Legs Up the Wall Pose (Viparita Karani): Reduces Insomnia",
-        "photo": "https://www.goodnet.org/photos/620x0/30218_hd.jpg",
-        "description":"During a tough yoga class, laying back into child’s pose can feel like a huge relief. Even as an easy pose, balasana comes packed with tons of health benefits. Enter the pose by extending the arms forward, spreading the knees apart while keeping the toes touching, and lowering the torso between the thighs.",
-        "benefits":[
-            "refresh the legs and reproductive organs",
-             "alleviate headaches",
-            "headaches, lower blood pressure",
-            "even reduce insomnia"
-        ]
-      }
-     ],
-
-     "YogaInstructors": [
-      {
-        "id": 1,
-        "name": "Anna Mendoza",
-        "photo": "https://yogamanila.com/wp-content/uploads/2018/11/t-cherry.jpg",
-        "description": "Anne's journey into the realm of yoga began in 2004 when she stepped into her first Vinyasa Flow class that led to the next three years practicing Bikram. After more searching, she knew she had found the pot of gold as they say, at the end of yoga’s colorful rainbow when she tried Ashtanga yoga. She continued on this fork of the road and did teacher training programs with Tim Miller and John Scott, in addition to learning from all the other luminaries in the yoga world.",
-        "specialties": "ASHTANGA YOGA, VINYASA FLOW, AND YOGA FOR CHILDREN WITH SPECIAL NEEDS",
-        "schedule":"Monday, Thursday"
-      },
-      {
-        "id": 2,
-        "name": "CHERRY DU",
-        "photo":"https://yogamanila.com/wp-content/uploads/2018/11/t-anne1.jpg",
-        "description": "Cherry Du discovered Sivananda yoga under Bela Lipat in the year 2000. She began her Ashtanga practice a year later. She is a Yoga Ed certified instructor for yoga for kids (K-8) and is certified to teach Ashtanga by Paul Dallaghan of the Centered Yoga Institute.",
-        "specialties": "ASHTANGA YOGA, ",
-        "schedule":"Monday, Wednesday, Saturday"
-      },
-      {
-        "id": 3,
-        "name": "CHERRY DU",
-        "photo":"https://yogamanila.com/wp-content/uploads/2018/11/t-anne1.jpg",
-        "description": "Cherry Du discovered Sivananda yoga under Bela Lipat in the year 2000. She began her Ashtanga practice a year later. She is a Yoga Ed certified instructor for yoga for kids (K-8) and is certified to teach Ashtanga by Paul Dallaghan of the Centered Yoga Institute.",
-        "specialties": "ASHTANGA YOGA, ",
-        "schedule":"Monday, Wednesday, Saturday"
-      },
-      {
-        "id": 4,
-        "name": "CONNIE PONCE",
-        "photo": "https://yogamanila.com/wp-content/uploads/2018/11/t-connie1.jpg",
-        "description": "Connie Ponce has been practicing Ashtanga Vinyasa yoga since 2000. She began to focus on the Ashtanga system in 2003 and was certified to teach in 2006 by Paul Dallaghan of the Centered Yoga Institute in Thailand. Connie has since deepened her practice by taking advanced courses and workshops with senior teachers O.P. Tiwari on Pranayama and Richard Freeman in Discovering the Primary Series.",
-        "specialties": "ASHTANGA YOGA",
-        "schedule": "Wednesday, Sunday"      
-      },
-      {
-        "id": 5,
-        "name": "ERIC VILLALUZ",
-        "photo": "https://yogamanila.com/wp-content/uploads/2020/12/eric-300x300.jpg",
-        "description": "Eric Villaluz is a veteran of dance being part of the VIP Dancers that has populated television with dance styles that always captured the zeitgeist. He has doubled up as a choreographer and dance coach, making him the ideal teacher for a multi-tiered class with people of varying abilities.",
-        "specialties": "ZUMBA",
-        "schedule": "Monday, Wednesday, Friday, Sunday"    
-      },
-      {
-        "id": 5,
-        "name": "GIGI POBLADOR",
-        "photo": "https://yogamanila.com/wp-content/uploads/2018/11/gigi.jpg",
-        "description": "Gizela ‘Gigi’ Poblador started practicing Ashtanga yoga in 2007. “I didn’t expect my practice to help me cope with life off the mat. But it did!” Soon after she turned the corner and became a serious practitioner. In 2012, she completed a 200-hour teacher training with John Scott. She has also attended workshops with A.G. Mohan, Richard Freeman, David Keil and recently finished an Intermediate Teacher Training with Hart Lazer that focused on a therapeutic approach.",
-        "specialties": "ASHTANGA YOGA",
-        "schedule": "Monday, Wednesday, Friday, Sunday"   
-      }       
-     ],     
-
-     "schedule": [
-      {
-      "id": 1,
-      "schedule": "Monday"
-      },
-      {
-      "id": 2,
-      "schedule": "Tuesday"
-      },
-      {
-      "id": 3,
-      "schedule": "Wednesday"
-      },
-      {
-      "id": 4,
-      "schedule": "Thursday"
-      },
-      {
-      "id": 5,
-      "schedule": "Friday"
-      },
-      {
-      "id": 6,
-      "schedule": "Saturday"
-      },
-      {
-      "id": 7,
-      "schedule": "Sunday"
-      }
-      ],
-
-      "classes": [
-        {
-          "id": 1,
-          "class": "Martia Arts"         
-        },
-        {
-          "id": 2,
-          "class": "Yoga"
-        },
-        {
-          "id": 3,
-          "class": "Boxing"
-        },
-        {
-          "id": 4,
-          "class": "Body Building"
-        }
-      ],
-
-      "BodyBuilding": [
-        {
-        "id": 1,
-        "photo": "https://www.bodybuilding.com/images/2018/march/14-keys-to-mega-mass-header-v2-830x467.jpg",
-        "step": "Train Consistently And Consistently Hard!",
-        "details": "This is where it all starts: consistent, hard training. From now on, every workout counts, so go at it with a vengeance! As time goes by, your goal should always be striving to use a little more weight, or do a few more reps. You should routinely take sets to failure—not necessarily every set, but the final set of a movement is a no-brainer."
-        },
-        {
-        "id": 2,
-        "photo": "https://www.bodybuilding.com/images/2018/march/14-keys-to-mega-mass-v2-1-700xh.jpg",
-        "step": "Systematically Take Time To Chill",
-        "details": "Knowing when to back off—even take a few days off training—can help you progress. You can't drive a car pedal to the metal all the time without blowing a gasket or throwing a rod. Train nonstop at 100 with no plan to dial it back, and you're begging for an injury or sickness."
-        },
-        {
-        "id": 3,
-        "photo": "https://www.bodybuilding.com/images/2018/march/14-keys-to-mega-mass-v2-2-700xh.jpg",
-        "step": "Work The Big Lifts",
-        "details": "Many lifters try to add mass by simply adding more isolation movements on top of what they're already doing. But now more than ever, you'll get the most bang for your gym time by doing lots of big compound movements"
-        },
-        {
-        "id": 4,
-        "photo": "https://www.bodybuilding.com/images/2018/march/14-keys-to-mega-mass-v2-3-700xh.jpg",
-        "step": "Mix Up Your Rep Ranges",
-        "details": "Doing 8-10 reps per set is a tried and true way to grow. But for more hypertrophy, or when you're an advanced lifter, it's good to mix it up with both heavier sets of 5-8 reps and lighter sets of 12-15 reps. For the quads and calves, push to 20-50 reps occasionally. Different muscle fibers respond differently to changes in load and time under tension."
-        },
-        {
-        "id": 5,
-        "photo": "https://www.bodybuilding.com/images/2018/march/14-keys-to-mega-mass-v2-4-700xh.jpg",
-        "step":"Find A Great Training Partner",
-        "details": "Once you have a great place to train, your gains will come faster if you have a great person to train with. This person doesn't necessarily have to share your exact goals or be as strong as you are. At the same time, the absolute best partnerships are those that have a touch of friendly rivalry."
-        },
-        {
-        "id": 6,
-        "photo": "https://www.bodybuilding.com/images/2018/march/14-keys-to-mega-mass-v2-7-700xh.jpg",
-        "step": "Listen To Your Body",
-        "details": "If you don't believe you can grow, you won't. Doubting your ability to succeed can prevent you from working out as hard as you can, and from eating as well as you should."
-        }
-      ],
-      
         "Basic": [
         {
         "id": 1,
@@ -451,30 +38,13 @@
         "inclusion": "Unlmited Access to Gym and Equipment, Group Fitness Coaching"
         }
         ],
-        
-        "schedule":[
-        {
-        "id": 1,
-        "morning": [
-              {"first": "6:30 to 7:30"},
-              {"second": "7:30 to 8:30"},
-              {"third": "8:30 to 9:30"}
-            ],
-        "evening": [
-              {"first": "6:00 to 7:00"},
-              {"second": "7:00 to 8:00"},
-              {"third": "8:00 to 9:00"}
-              ]
-        }
-        ],
-
-      
-
-        "boxingcoaches": [
+       
+        "instructors": [
           {
             "id": 1,
             "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/Nong-O-FP-300x417.png",
             "name": "Nong-O Gaiyanghadao",
+            "specialty": "Mixed Martial Arts",
             "Iprofile": "Nong-O Gaiyanghadao, formerly known as Nong-O Sit Or, is considered to be one of the best pound for pound Muay Thai fighters in the world today. Nong-O is known for the incredible speed, power and precision behind all his strikes. Nong-O is a five-division multiple-time World Champion, 4x Lumpinee Muay Thai World Champion, 1x Rajadamnern Muay Thai World Champion, 2x Thailand National Champion, 3x Fighter of the Year, and more. He is also the current and first-ever ONE Bantamweight Muay Thai World Champion. He has fought against fellow legends like Saenchai PKSaenchaiMuayThaiGym, Singdam Kiatmuu9, Petchboonchu F.A.Group, Pakorn Sakyothin, Kongsak Sitboonmee, Sam-A Gaiyanghadao, Sagetdao Petpayathai and many more.",
             "Fprofile": "Five division Muay Thai World Champion, 1x Rajadamnern Muay Thai World Champion, 2x Thailand National Champion, 3x Fighter of the Year, One of the best pound-for-pound fighters in Muay Thai history, Known for the incredible speed, precision, and power behind his strikes, Regarded as one of the most exciting Muay Thai fighters to ever step into the ring."
 
@@ -483,6 +53,7 @@
             "id": 2,
             "photo": "https://evolve-mma.com/wp-content/uploads/2022/12/COACH-ADAM-1-v2-450x642.png",
             "name": "Adam Shahir Kayoom",
+            "specialty": "Mixed Martial Arts",
             "Iprofile": "Adam is the Head Coach of the famed EVOLVE Fight Team at Evolve Mixed Martial Arts in Singapore. Adam started training in Judo and Tae Kwon Do as a child, but found BJJ when he was 18. He fell in love with it and moved to Brazil to train, eventually earning his black belt in BJJ under Master Ricardo Liborio. Adam is also a two-time World Champion in Muay Thai, winning the WPMF World Muay Thai World Championship twice. He is a true martial artist, studying multiple martial arts, including Silat, Kali, Aikido, and Judo. Adam established himself as an early pioneer of MMA and BJJ in Asia, and has fought in ONE Championship with his deep knowledge of different martial disciplines.",
             "Fprofile": "2x WPMF World Muay Thai World Champion, Holds black belts in Tae Kwon Do, Shorinji Ryu Karate Do and BJJ First Malaysian to be conferred a black belt in BJJ. Trained in multiple martial arts, including Silat, Kali, Muay Thai, and Judo, Pioneer of MMA and BJJ in Asia"
 
@@ -491,6 +62,7 @@
             "id": 3,
             "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/Instructors-Chatri-Sitdyodtong.png",
             "name":"Chatri Sityodtong",
+            "specialty": "Mixed Martial Arts",
             "Iprofile" : "Chatri is an Instructor at Evolve Mixed Martial Arts in Singapore. Inducted into the Black Belt Hall of Fame in 2019, he has over 35 years of martial arts experience as a student, a fighter, a teacher, and a coach. Chatri grew up in Thailand and began his training in Muay Thai at the world-renowned Sityodtong Gym as a young boy. A long-time student of Kru Yodtong Senanan, he has fought professionally in Thailand for the Sityodtong Gym.",
             "Fprofile": "2x WPMF World Muay Thai World Champion"
 
@@ -499,6 +71,7 @@
             "id": 4,
             "photo": "https://evolve-mma.com/wp-content/uploads/2018/11/DJ-Site-e1543425906412.png",
             "name": "Demetrious Johnson",
+            "specialty": "Mixed Martial Arts",
             "Iprofile" : "Demetrious Johnson is an Instructor at Evolve Mixed Martial Arts in Singapore on a seasonal basis. He is widely regarded as the greatest pound-for-pound mixed martial artist in history. As the UFC Flyweight World Champion, he broke the record for the most number of world title defenses (11) in the UFC. Known for his speed and explosive wrestling, he has landed the most takedowns in UFC flyweight history. Demetrious is a multiple-time Fighter of the Year Award winner.",
             "Fprofile" : "Holds the record for the most UFC World Title defenses (11), Known as the greatest pound-for-pound mixed martial artist in history, Outside of martial arts, Demetrious is an avid video gamer, Known for his quick striking and elusive movement, Second fighter in UFC history to be awarded bonus payments in all four possible categories (Fight, Knockout, Performance, & Submission of the Night awards), 2017 ESPY Awards Fighter of the Year, 2013 Fox Sports Fighter of the Year"
 
@@ -507,6 +80,7 @@
             "id": 5,
             "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/Rafael-Dos-Anjos-IP-2.png",
             "name": "Rafael Dos Anjos",
+            "specialty": "Muay Thai",
             "Iprofile" : "Rafael is an Instructor at Evolve Mixed Martial Arts in Singapore on a seasonal basis. He has been a member of the Evolve Fight Team since 2009. Rafael is a UFC Lightweight World Champion with a professional record of 28-11. He has consistently been one of the top MMA fighters in his weight class around the world. In his quest to keep learning and evolving, he splits his time between Evolve MMA and California for training and fight camps. Prior to the UFC, Rafael was Champion of Fury Fighting Championship. Rafael is also well-versed in wrestling, boxing, and Muay Thai. He has also been a Mundials BJJ World Champion. Rafael is a Black Belt in Brazilian Jiu-Jitsu under Aldo Januario. He is also known for his very aggressive striking style and studies Muay Thai under the legendary Evolve Muay Thai Instructor Team.",
             "Fprofile": "UFC Lightweight World Champion, Fury FC Champion, Brazil’s top lightweight fighter, Favorite techniques: the rear naked choke and armbar, Winner of UFC, Fight of the Night award, Winner of UFC Submission of the Night award"
           },
@@ -514,6 +88,7 @@
             "id": 6,
             "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/ShinyaAoki-IP.png",
             "name": "Shinya Aoki",
+            "specialty": "Muay Thai",
             "Iprofile" : "Shinya is an Instructor at Evolve Mixed Martial Arts in Singapore on a seasonal basis. A Black Belt in both Brazilian Jiu-Jitsu and Judo, he is a 4x ONE Championship Lightweight World Champion. He was also the DREAM FC Lightweight World Champion. Shinya is widely regarded as the #1 pound-for-pound MMA fighter in Asia. He brings over 20 years of martial arts experience to Evolve MMA, competing at the highest levels in the world. He is currently the top BJJ Black Belt in Japan, and he has won every major BJJ tournament in Japan. For MMA, Shinya Aoki has won every major title in Japan including Shooto, DEEP, and DREAM. He holds a Black Belt in Brazilian Jiu-Jitsu under the legendary Yuki Nakai, the 1st BJJ Black Belt in Japan under Carlos Gracie Jr.",
             "Fprofile": "ONE Championship Lightweight World Champion, DREAM Fighting Championship Lightweight World Champion, Asia’s top professional MMA fighter, One of the top on,rapplers in the world, Favorite techniques: the rear naked choke and leg locks, Known for his flying submissions, Considered to be one of the top lightweight MMA fighters in the world"
           },
@@ -521,6 +96,7 @@
             "id": 7,
             "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/Angela-Lee-updated-450x489.png",
             "name": "Angela Lee",
+            "specialty": "Muay Thai",
             "Iprofile" : "Angela Lee is an Instructor at Evolve Mixed Martial Arts in Singapore on a seasonal basis. Angela is the youngest MMA World Champion in history for any major global MMA organization.  She is the current ONE Atomweight World Champion, a 2-time Pankration World Champion and a Wrestling State Champion. She has competed in and won numerous World, National, and Regional martial arts competitions such as the World Pankration Athlima Federation World Championships and FILA World Championships. She also holds a 1st degree Black Belt in Taekwondo and TDS, and a Black Belt in Brazilian Jiu-Jitsu. A rising star of Singaporean-Korean descent, Angela come from a family of impressive martial artists trained by her father who holds Black Belts in three different martial arts disciplines including a 1st Degree Black Belt in Brazilian Jiu-Jitsu and a 6th Degree Hapdosool Master Black Belt, and her mother who holds a 5th Degree Hapdosool Master Black Belt.",
             "Fprofile": "ONE Atomweight World Champion, Professional MMA fighter, 2x Pankration World Champion, Hawaii State Wrestling Champion, Black Belt in Taekwondo and TDS, Black Belt in Brazilian Jiu-Jitsu"
           },
@@ -528,6 +104,7 @@
             "id": 8,
             "photo": "https://evolve-mma.com/wp-content/uploads/2020/03/XJN-updated-450x675.png",
             "name": "Xiong Jing Nan",
+            "specialty": "Muay Thai",
             "Iprofile": "Xiong Jing Nan is an Instructor at Evolve Mixed Martial Arts in Singapore. She is the ONE Women’s Strawweight World Champion and China’s first-ever mixed martial arts World Champion. Before transitioning to mixed martial arts, she represented China in boxing internationally. Jing Nan is also a China Open BJJ Champion.",
             "Fprofile": "ONE Women’s Strawweight World Champion, China’s first-ever mixed martial arts World Champion, Represented China in boxing on the international level, China Open BJJ Champion"
           },
@@ -535,6 +112,7 @@
             "id": 9,
             "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/Christian-Lee-updated-450x487.png",
             "name": "Christian Lee",
+            "specialty": "Muay Thai",
             "Iprofile" : "Christian Lee is an Instructor at Evolve Mixed Martial Arts in Singapore on a seasonal basis. Christian is the ONE Lightweight World Champion and the youngest male World Champion in mixed martial arts history. He is also the ONE Lightweight World Grand Prix Champion. Christian is a multiple-time Junior Pankration World Champion with a Black Belt in Brazilian Jiu-Jitsu. He was voted ‘Most Outstanding Athlete’ at the 2013 FILA World Championship after winning five World Titles across the disciplines of Brazilian Jiu-Jitsu, Pankration, MMA, and Submission Grappling. He also holds a 1st degree Black Belt in Taekwondo and TDS. Christian holds the record for most finishes in ONE Championship history.",
             "Fprofile": "ONE Lightweight World Champion, ONE Welterweight World Champion, ONE Lightweight World Grand Prix Champion, Youngest male World Champion in mixed martial,arts history, Multiple-time Junior Pankration World Champion, Black Belt in Brazilian Jiu-Jitsu"
           },
@@ -542,6 +120,7 @@
             "id": 10,
             "photo": "https://evolve-mma.com/wp-content/uploads/2019/01/HIROKI-BELT-1-450x642.png",
             "name": "Hiroki Akimoto",
+            "specialty": "Brazillian Jiu Jitsu",
             "Iprofile": "Hiroki Akimoto is an Instructor at Evolve Mixed Martial Arts in Singapore. He is a WFKO Kyokushin Karate World Champion, WBC Muay Thai Japan Champion, Japan Kickboxing Federation Champion, and more. Known for his crisp technique and explosive power, he holds a Kyokushin Karate Black Belt.",
             "Fprofile": "ONE Bantamweight Kickboxing World Champion, WFKO Kyokushin Karate World Champion, WBC Muay Thai Japan Champion, Japan Kickboxing Federation Champion,Kyokushin Karate Black Belt, Known for his crisp technique and powerful roundhouse kick, Started karate at the age of 8 to defend himself from bullies" 
           },
@@ -549,6 +128,7 @@
             "id": 11,
             "photo": "https://evolve-mma.com/wp-content/uploads/2016/01/petchboonchu-FP-450x626.png",
             "name": "Petchboonchu FA Group",
+            "specialty": "Brazillian Jiu Jitsu",
             "Iprofile" : "Petchboonchu is an Instructor at Evolve Mixed Martial Arts in Singapore. With 14 titles under his belt, Petchboonchu is the most decorated Muay Thai World Champion in history. Petchboonchu is a five-division multiple-time World Champion, multiple time Muay Thai Lumpinee World Champion, Rajadamnern Muay Thai World Champion, WMC Muay Thai World Champion, Thailand Muay Thai World Champion, and more. He has fought against the legendary Saenchai PKSaenchaimuaythaigym and won thrice. Petchboonchu is regarded as one of the greatest clinch fighters of all time.",
             "Fprofile": "One of the greatest clinch fighters of all time, Most decorated Muay Thai fighter in history, Won the original Lumpinee stadium’s last main event, Fought against the legendary Saenchai PKSaenchaimuaythaigym and won thrice"
           },
@@ -556,6 +136,7 @@
             "id": 12,
             "photo": "https://evolve-mma.com/wp-content/uploads/2016/05/ROGERGracie.png",
             "name": "Roger Gracie",
+            "specialty": "Brazillian Jiu Jitsu",
             "Iprofile" : "Roger Gracie is an Instructor at Evolve Mixed Martial Arts in Singapore on a seasonal basis. He is regarded as one of the greatest Brazilian Jiu-Jitsu legends of all time and is the first person to win 10 Mundials World Championships in the Black Belt Division. He is the grandson of Carlos Gracie, the founder of Brazilian Jiu-Jitsu.",
             "Fprofile": "3rd degree Black Belt in Brazilian Jiu-Jitsu under Carlos Gracie Jr., 10 x Mundials BJJ World Champion, Has submitted all his opponents in the Mundials, ONE Light Heavyweight World Champion, 2 x ADCC World Champion"
           },
@@ -563,6 +144,7 @@
             "id": 13,
             "photo": "https://evolve-mma.com/wp-content/uploads/2021/09/buchecha-300x426.png",
             "name": "Marcus Almeida",
+            "specialty": "Brazillian Jiu Jitsu",
             "Iprofile" : "Marcus “Buchecha” Almeida is an Instructor at Evolve Mixed Martial Arts in Singapore on a seasonal basis. Known for his athleticism and technical mastery, he is the most decorated Brazilian Jiu-Jitsu World Champion in history, having won 13 BJJ World Championships.",
             "Fprofile": "Most decorated competitor in Brazilian Jiu-Jitsu history, 13x BJJ world Champion, 2 x ADCC World Champion"
           },
@@ -570,6 +152,7 @@
             "id": 14,
             "photo": "https://evolve-mma.com/wp-content/uploads/2022/04/MIKEY-1-450x642.png",
             "name": "Mikey Musumeci",
+            "specialty": "Brazillian Jiu Jitsu",
             "Iprofile" : "Mikey Musumeci is an Instructor at Evolve Mixed Martial Arts in Singapore on a seasonal basis. He is a highly decorated Brazilian Jiu-Jitsu martial artist, having won five times World Championships as a colored belt. He holds the unique distinction of being the first American to win the IBJJF World Championship in the male black belt division twice. He has a modern style of grappling, utilizing the berimbolo and crab ride positions heavily.",
             "Fprofile": "Multiple-time IBJJF World Champion, Won sequential IBJJF World Championships as a colored belt, First American to win the IBJJF World Championship in the male black belt division twice"
           },
@@ -577,6 +160,7 @@
             "id": 15,
             "photo": "https://evolve-mma.com/wp-content/uploads/2017/10/Tonon-415x545-e1508244940103-450x583.png",
             "name": "Garry Tonon",
+            "specialty": "Boxing",
             "Iprofile": "Garry Tonon is an Instructor at Evolve Mixed Martial Arts in Singapore on a seasonal basis. He is widely regarded as one of the best submission grapplers on the planet today. With a dynamic and exciting style, Garry is known for his fearless approach and is one of the world’s foremost leg lock experts.  Garry is currently a professional MMA fighter in ONE Championship and a member of the prestigious Evolve Fight Team.",
             "Fprofile": "3-time Brazilian Jiu-Jitsu World Champion, 5-time Eddie Bravo Invitational Champion"
           },
@@ -584,6 +168,7 @@
             "id": 16,
             "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/IMG_1155-Dejdamrong_Instructor.png",
             "name": "Dejdamrong Sor Amnuaysirichok",
+            "specialty": "Boxing",
             "Iprofile": "Dejdamrong is an Instructor at Evolve Mixed Martial Arts in Singapore. He is a ONE Strawweight World Champion and a 3x Lumpinee Muay Thai World Champion with a professional Muay Thai record of 282-65. Kru Rong is also a Thailand National Champion and Omnoi Stadium Champion. Dejdamrong is known as a technical fighter with quick hands and lightning feet. He has some of the most unique and creative striking combinations in the sport of Muay Thai. Dejdamrong is a certified Muay Thai instructor from Thailand who brings over 25 years of competitive experience to Evolve MMA.",
             "Fprofile": "ONE Strawweight World Champion, Muay Thai World Champion, 3x Lumpinee World Champion, Thailand National Champion, Omnoi Champion, Shell Rimula Tournament Champion, Channel 3 Muay Thai Champion, Professional MMA fighter for ONE Championship"       
           },
@@ -591,6 +176,7 @@
             "id": 17,
             "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/LeandroIssa-IP.png",
             "name": "Leandro Thomas Issa da Silva",
+            "specialty": "Boxing",
             "Iprofile" : "Leandro Thomas Issa da Silva is an Instructor at Evolve Mixed Martial Arts in Singapore. He is a Mundials World Champion in Brazilian Jiu-Jitsu with over 20 years of experience. He has won numerous regional and national titles in Brazil. He is currently a professional MMA fighter with a 17-7 record competing in the ONE Championship. Leandro is a 3rd degree Black Belt in Brazilian Jiu-Jitsu. He trained under Roberto “Gordo” Correa at Evolve Brazil before moving to Evolve Singapore to live and teach on a permanent basis. Leandro has also competed in MMA events such as the UFC, Art of War, Martial Combat FC, and Jungle Fight. Since arriving at Evolve MMA, Leandro has worked closely with the Evolve Muay Thai World Champions to improve his striking. Leandro’s favorite BJJ techniques include the armbar, rear naked choke, omoplata, and flying triangle choke.",
             "Fprofile": "ONE Championship Fighter, Mundials World Champion in Brazilian Jiu-Jitsu, Winner of UFC Fight of the Night and UFC Submission of the Night awards, Martial Combat FC Featherweight Super Fight Champion, Professional MMA fighter, Favorite techniques: armbar, rear naked choke, omoplata, flying triangle choke"
           },
@@ -598,6 +184,7 @@
             "id": 18,
             "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/Kru-Aa_Instructor.png",
             "name": "Sagetdao Petpayathai",
+            "specialty": "Boxing",
             "Iprofile" : "Sagetdao Petpayathai is a multiple-time Muay Thai World Champion, winning every major title in Muay Thai today. A big Muay Thai Superstar and Legend, he is a 4x Lumpinee World Champion, 1x Rajdamnern World Champion, 2x MAX Muay Thai World Champion, 1x WBC Muay Thai World Champion, 1x WPMF World Champion, etc. Sagetdao has beaten some of the biggest names in Muay Thai such as Saenchai PKSaenchaimuaythaigym, Petchboonchu FA Group, Singdam Kiatmuu9, Nong-O Gaiyanghadao, Anuwat Kaewsamrit, Nongbee Kiatyongyuth, and many others. He has a professional fight record of 162 wins and 62 losses.",
             "Fprofile": "One of the greatest Muay Thai World Champions in history, Multiple-time Muay Thai World Champion, Defeated some of the biggest names in history, Held every major Muay Thai world title, Voted as one of the greatest fighters in the history of Muay Thai, Regarded as one of the most complete fighters in Muay Thai history"
           },
@@ -605,6 +192,7 @@
             "id": 19,
             "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/Papa-Daorung_Instructor.png",
             "name": "Daorung Sityodtong",
+            "specialty": "Boxing",
             "Iprofile": "Daorung is an Instructor of Mixed Martial Arts in Singapore. He is a former Muay Thai Champion in Thailand. He brings over 48 years of professional Muay Thai experience as a professional fighter and as a trainer of Lumpinee Muay Thai World Champions. He has fought in over 100 professional Muay Thai fights. His knowledge of the fight game is unsurpassed. He has been at the Sityodtong Camp for most of his career as a fighter and elite trainer. Daorung is known for his strong low leg kicks and big right hand. Although he is ring-proven, Daorung is also a street fighter with hundreds of street fights to his name.",
             "Fprofile": "Multiple-time Muay Thai World Champion"
           },
@@ -612,6 +200,7 @@
             "id": 20,
             "photo": "https://evolve-mma.com/wp-content/uploads/2015/11/IMG_1204-Nontachai-Sit-O.png",
             "name": "Nontachai, Sit-O",
+            "specialty": "Boxing",
             "Iprofile" : "Nontachai is an Instructor at Evolve Mixed Martial Arts in Singapore. He is a 3x Lumpinee Muay Thai World Champion, 1x Rajdamnern World Champion, and a Thailand Champion. As one of the top World Champions in Thailand, Nontachai has the distinction of fighting and beating many Muay Thai legends. In his elite career, he has won 7 championship title belts at the highest levels of Muay Thai in Thailand. The Thai media has labeled him as one of the most dominant fighters in Muay Thai due to his aggressive style.",
             "Fprofile": "Nontachai has competed around the world including Finland, Italy, France, and Holland. According to the Evolve Muay Thai instructors, Nontachai is one of the best football players on the team. Nontachai names his toughest opponents as fellow instructors Namsaknoi and Orono."
           },
@@ -619,6 +208,7 @@
             "id": 21,
             "photo": "https://evolve-mma.com/wp-content/uploads/2018/07/Kaoklai-Kaennorsing-450x537.png",
             "name": "Kaoklai Kaennorsing",
+            "specialty": "Mixed Martial Arts",
             "Iprofile" : "Kaoklai Kaennorsing is an Instructor at Evolve Mixed Martial Arts in Singapore. He is a 2x Rajadamnern Muay Thai World Champion, WBC Muay Thai World Champion, K-1 World Grand Prix Champion, and more. Fighting since the age of 8, Kaoklai has over 200 professional Muay Thai fights. Known for his well-rounded style and often competing against much larger opponents, he has fought some of the greatest Muay Thai and kickboxing legends such as Lamsongkram Chuwattana, Ray Sefo, Alexey Ignashov, and Francois Botha, among others. His favorite techniques are his roundhouse kick and push kick.",
             "Fprofile": "2x Rajadamnern Muay Thai World Champion, WBC Muay Thai World Champion, K-1 World Grand Prix Champion, Known for his ability to pull off stunning knockouts, Known for often fighting much larger opponents, Competed in over 200 professional Muay Thai fights"
           }
