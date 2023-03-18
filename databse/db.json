@@ -548,6 +548,25 @@
           "description2": "In modern boxing, fighters compete in a square ring and are divided into weight classes to ensure fair matchups. The goal of the sport is to score more points than the opponent by landing punches on their upper body and head while avoiding being hit. ",
           "description3":" Boxers typically use a variety of techniques, such as jabs, hooks, crosses, uppercuts, and footwork, to maneuver around the ring and outmaneuver their opponent. The sport requires a high level of physical fitness and mental toughness, as well as discipline and training."
         }
+      ],
+
+      "program": [
+        {
+          "id": 1,
+          "program": "Mixed Martial Arts"
+        },
+        {
+          "id": 2,
+          "program": "Muay Thai"
+        },
+        {
+          "id": 3,
+          "program": "Brazillian Jiu Jitsu"
+        },
+        {
+          "id": 4,
+          "program": "Boxing"
+        }
       ]
 
      
